@@ -44,7 +44,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 **2023**
 - Duffourc, M., & Gerke, S. (2023). Generative AI in health care and liability risks for physicians and safety concerns for patients. Jama. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Generative+AI+in+health+care+and+liability+risks+for+physicians+and+safety+concerns+for+patients&btnG=) [[paper]](https://jamanetwork.com/journals/jama/article-abstract/2807168)
 - Huang, J., Neill, L., Wittbrodt, M., Melnick, D., Klug, M., Thompson, M., ... & Etemadi, M. (2023). Generative Artificial Intelligence for Chest Radiograph Interpretation in the Emergency Department. JAMA network open, 6(10), e2336100-e2336100. [[Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Generative+Artificial+Intelligence+for+Chest+Radiograph+Interpretation+in+the+Emergency+Department&btnG=) [[Paper]](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2810195)
-
+- Lubowitz, J. H. (2023). Guidelines for the Use of Generative Artificial Intelligence Tools for Biomedical Journal Authors and Reviewers. Arthroscopy: The Journal of Arthroscopic & Related Surgery. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Guidelines+for+the+Use+of+Generative+Artificial+Intelligence+Tools+for+Biomedical+Journal+Authors+and+Reviewers&btnG=) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0749806323008812)
 
 
 
