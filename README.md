@@ -73,6 +73,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 **2022**
 - Chen, Y., Yang, X. H., Wei, Z., Heidari, A. A., Zheng, N., Li, Z., ... & Guan, Q. (2022). Generative adversarial networks in medical image augmentation: A review. Computers in Biology and Medicine, 144, 105382. [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482522001743).
 - Giuste, F., Shi, W., Zhu, Y., Naren, T., Isgut, M., Sha, Y., ... & Wang, M. D. (2022). Explainable artificial intelligence methods in combating pandemics: A systematic review. IEEE Reviews in Biomedical Engineering. [[paper]](https://ieeexplore.ieee.org/abstract/document/9804787).
+- Krishnan, R., Rajpurkar, P., & Topol, E. J. (2022). Self-supervised learning in medicine and healthcare. Nature Biomedical Engineering, 6(12), 1346-1352. [[paper]](https://www.nature.com/articles/s41551-022-00914-1).
 
 **2021**
 - Akram, S., Athar,
