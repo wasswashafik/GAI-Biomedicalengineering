@@ -78,7 +78,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Barragán-Montero, A., Javaid, U., Valdés, G., Nguyen, D., Desbordes, P., Macq, B., ... & Lee, J. A. (2021). Artificial intelligence and machine learning for medical imaging: A technology review. Physica Medica, 83, 242-256. [[paper]](https://www.sciencedirect.com/science/article/pii/S1120179721001733).
 
 **2021**
-- Barragán-Montero, A., Javaid, U., Valdés, G., Nguyen, D., Desbordes, P., Macq, B., ... & Lee, J. A. (2021). Artificial intelligence and machine learning for medical imaging: A technology review. Physica Medica, 83, 242-256. [[paper]]
+- Barragán-Montero, A., Javaid, U., Valdés, G., Nguyen, D., Desbordes, P., Macq, B., ... & Lee, J. A. (2021). Artificial intelligence and machine learning for medical imaging: A technology review. Physica Medica, 83, 242-256. [[paper]](https://www.sciencedirect.com/science/article/pii/S1120179721001733).
 
 **2020**
 - Akram, S., Athar,
