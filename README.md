@@ -65,3 +65,4 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 # Applications of Diffusion Models in Biomedical Engineering
 **2023**
 - Akram, S., Athar, M., Saeed, K., Razia, A., Muhammad, T., & Alghamdi, H. A. (2023). Mathematical simulation of double diffusion convection on peristaltic pumping of Ellis nanofluid due to induced magnetic field in a non-uniform channel: Applications of magnetic nanoparticles in biomedical engineering. Journal of Magnetism and Magnetic Materials, 569, 170408. [[Link]](https://www.sciencedirect.com/science/article/pii/S0304885323000574).
+- Bieder, F., Wolleb, J., Durrer, A., Sandkuehler, R., & Cattin, P. C. (2023, April). Memory-Efficient 3D Denoising Diffusion Models for Medical Image Processing. In Medical Imaging with Deep Learning. [[Link]](https://openreview.net/forum?id=neXqIGpO-tn).
