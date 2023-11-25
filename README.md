@@ -294,7 +294,12 @@ Please consider cite our paper if you find this repo is helpful. The link will b
   
 ## Vulnerability to Adversarial Attacks
  **2023**
-- Paladugu,
+- Jung, J., Moon, H., Yu, G., & Hwang, H. (2023). Generative Perturbation Network for Universal Adversarial Attacks on Brain-Computer Interfaces. IEEE Journal of Biomedical and Health Informatics. [[paper]](https://ieeexplore.ieee.org/abstract/document/10213992).
+- Pauwels, E. (2023). How to Protect Biotechnology and Biosecurity from Adversarial AI Attacks? A Global Governance Perspective. In Cyberbiosecurity (pp. 173-184). Springer, Cham. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-26034-6_11).
+- Zhang, D., Dong, Y., & Yang, H. (2023). An adversarial defense algorithm based on robust U-net. Multimedia Tools and Applications, 1-27. [[paper]](https://link.springer.com/article/10.1007/s11042-023-17355-w).
+- Zbrzezny, A. M., & Grzybowski, A. E. (2023). Deceptive Tricks in Artificial Intelligence: Adversarial Attacks in Ophthalmology. Journal of Clinical Medicine, 12(9), 3266. [[paper]](https://www.mdpi.com/2077-0383/12/9/3266).
+- Nazir, S., Dickson, D. M., & Akram, M. U. (2023). Survey of explainable artificial intelligence techniques for biomedical imaging with deep neural networks. Computers in Biology and Medicine, 106668. [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482523001336).
+- Akram, S., Bazai, S. U., Ghafoor, M. I., Marjan, S., Hamza, M., & Shah, S. A. A. (2023, March). Systematic Literature Review: Evaluating Effects of Adversarial Attacks and Attack Generation Methods. In 2023 International Conference on Energy, Power, Environment, Control, and Computing (ICEPECC) (pp. 1-6). IEEE.  [[paper]](https://ieeexplore.ieee.org/abstract/document/10209461).
 
 **2022**
 - Kaviani, S., Han, K. J., & Sohn, I. (2022). Adversarial attacks and defenses on AI in medical imaging informatics: A survey. Expert Systems with Applications, 198, 116815. [[paper]](https://www.sciencedirect.com/science/article/pii/S095741742200272X).
@@ -306,7 +311,8 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Rahman, A., Hossain, M. S., Alrajeh, N. A., & Alsolami, F. (2020). Adversarial examples—Security threats to COVID-19 deep learning systems in medical IoT devices. IEEE Internet of Things Journal, 8(12), 9603-9610. [[paper]](https://ieeexplore.ieee.org/abstract/document/9154468).
   
 **2020**
-- Paladugu,
+- Mangaokar, N., Pu, J., Bhattacharya, P., Reddy, C. K., & Viswanath, B. (2020, September). Jekyll: Attacking medical image diagnostics using deep generative models. In 2020 IEEE European Symposium on Security and Privacy (EuroS&P) (pp. 139-157). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/9230370).
+- Phan, H., Xie, Y., Liao, S., Chen, J., & Yuan, B. (2020, April). Cag: A real-time low-cost enhanced-robustness high-transferability content-aware adversarial attack generator. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 04, pp. 5412-5419). [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5990).
 
 # GAI Review Papers
 **2023**
