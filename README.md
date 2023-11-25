@@ -146,7 +146,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Paul, D., Sanap, G., Shenoy, S., Kalyane, D., Kalia, K., & Tekade, R. K. (2021). Artificial intelligence in drug discovery and development. Drug discovery today, 26(1), 80. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/).
   
  **2020**
-- Zhavoronkov, A., Aladinskiy, V., Zhebrak, A., Zagribelnyy, B., Terentiev, V., Bezrukov, D. S., ... & Ivanenkov, Y. (2020). Potential 2019-nCoV 3C-like protease inhibitors designed using generative deep learning approaches. [[paper]]().
+- Zhavoronkov, A., Aladinskiy, V., Zhebrak, A., Zagribelnyy, B., Terentiev, V., Bezrukov, D. S., ... & Ivanenkov, Y. (2020). Potential 2019-nCoV 3C-like protease inhibitors designed using generative deep learning approaches. [[paper]](https://chemrxiv.org/engage/chemrxiv/article-details/60c7482bee301ce75fc79817).
   
 # Clinical Trial Optimization
 **2023**
@@ -155,10 +155,15 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Paladugu,
 
  **2021**
-- Paladugu,
+- Bung, N., Krishnan, S. R., Bulusu, G., & Roy, A. (2021). De novo design of new chemical entities for SARS-CoV-2 using artificial intelligence. Future medicinal chemistry, 13(06), 575-585.Bung, N., Krishnan, S. R., Bulusu, G., & Roy, A. (2021). De novo design of new chemical entities for SARS-CoV-2 using artificial intelligence. Future medicinal chemistry, 13(06), 575-585. [[paper]](https://www.future-science.com/doi/full/10.4155/fmc-2020-0262).
+- Gupta, A., Müller, A. T., Huisman, B. J., Fuchs, J. A., Schneider, P., & Schneider, G. (2018). Generative recurrent networks for de novo drug design. Molecular informatics, 37(1-2), 1700111. [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700111).
+- Goel, T., Murugan, R., Mirjalili, S., & Chakrabartty, D. K. (2021). Automatic screening of covid-19 using an optimized generative adversarial network. Cognitive computation, 1-16. [[paper]](https://link.springer.com/article/10.1007/s12559-020-09785-7).
   
  **2020**
-- Paladugu,
+- Schneider, P., Walters, W. P., Plowright, A. T., Sieroka, N., Listgarten, J., Goodnow Jr, R. A., ... & Schneider, G. (2020). Rethinking drug design in the artificial intelligence era. Nature Reviews Drug Discovery, 19(5), 353-364. [[paper]](https://www.nature.com/articles/s41573-019-0050-3).
+- Kaushik, A. C., & Raj, U. (2020). AI-driven drug discovery: A boon against COVID-19?. AI Open, 1, 1-4. [[paper]](https://www.sciencedirect.com/science/article/pii/S2666651020300012).
+- Chenthamarakshan, V., Das, P., Hoffman, S., Strobelt, H., Padhi, I., Lim, K. W., ... & Mojsilovic, A. (2020). CogMol: Target-specific and selective drug design for COVID-19 using deep generative models. Advances in Neural Information Processing Systems, 33, 4320-4332. [[paper]](https://proceedings.neurips.cc/paper/2020/hash/2d16ad1968844a4300e9a490588ff9f8-Abstract.html).
+- Walters, W. P., & Barzilay, R. (2020). Applications of deep learning in molecule generation and molecular property prediction. Accounts of chemical research, 54(2), 263-270. [[paper]](https://pubs.acs.org/doi/abs/10.1021/acs.accounts.0c00699).
   
 # Genomic Editing and Design
 **2023**
