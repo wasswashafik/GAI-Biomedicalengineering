@@ -70,3 +70,6 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Ali, K., Ahmad, A., Ahmad, S., Nisar, K. S., & Ahmad, S. (2023). Peristaltic pumping of MHD flow through a porous channel: biomedical engineering application. Waves in Random and Complex Media, 1-30. [[paper]](https://www.tandfonline.com/doi/abs/10.1080/17455030.2023.2168085).
 - Özbey, M., Dalmaz, O., Dar, S. U., Bedel, H. A., Özturk, Ş., Güngör, A., & Çukur, T. (2023). Unsupervised medical image translation with adversarial diffusion models. IEEE Transactions on Medical Imaging. [[paper]](https://ieeexplore.ieee.org/abstract/document/10167641).
 - Özdenizci, O., & Legenstein, R. (2023). Restoring vision in adverse weather conditions with patch-based denoising diffusion models. IEEE Transactions on Pattern Analysis and Machine Intelligence. [[paper]](https://ieeexplore.ieee.org/abstract/document/10021824).
+
+**2022**
+- Alshammari, S., Al-Sawalha, M. M., & Humaidi, J. R. (2023). Fractional view study of the brusselator reaction–diffusion model occurring in chemical reactions. Fractal and Fractional, 7(2), 108. [[paper]](https://www.mdpi.com/2504-3110/7/2/108).
