@@ -289,7 +289,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 **2021**
 - Paladugu,
   
-**2021**
+**2020**
 - Paladugu,
   
 ## Vulnerability to Adversarial Attacks
@@ -302,7 +302,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 **2021**
 - Paladugu,
   
-**2021**
+**2020**
 - Paladugu,
 
 # GAI Review Papers
