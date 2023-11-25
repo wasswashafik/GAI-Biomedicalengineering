@@ -253,7 +253,13 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Li, S., Guo, Z., & Zang, X. (2023). Advancing the production of clinical medical devices through ChatGPT. Annals of Biomedical Engineering, 1-5. [[paper]](https://link.springer.com/article/10.1007/s10439-023-03300-3).
   
 **2022**
-- Paladugu,
+- Holzinger, A., Dehmer, M., Emmert-Streib, F., Cucchiara, R., Augenstein, I., Del Ser, J., ... & Díaz-Rodríguez, N. (2022). Information fusion as an integrative cross-cutting enabler to achieve robust, explainable, and trustworthy medical artificial intelligence. Information Fusion, 79, 263-278. [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253521002050).
+- Karimian, G., Petelos, E., & Evers, S. M. (2022). The ethical issues of the application of artificial intelligence in healthcare: a systematic scoping review. AI and Ethics, 2(4), 539-551. [[paper]](https://link.springer.com/article/10.1007/s43681-021-00131-7).
+- Bonmatí, L. M., Miguel, A., Suárez, A., Aznar, M., Beregi, J. P., Fournier, L., ... & Alberich-Bayarri, Á. (2022). CHAIMELEON project: Creation of a Pan-European repository of health imaging data for the development of AI-powered cancer management tools. Frontiers in Oncology, 12, 742701. [[paper]](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.742701/full).
+- Petermann, M., Tempini, N., Kherroubi Garcia, I., Whitaker, K., & Strait, A. (2022). Looking before we leap: Expanding ethical review processes for AI and data science research. [[paper]](https://ore.exeter.ac.uk/repository/handle/10871/132324).
+- Farina, E., Nabhen, J. J., Dacoregio, M. I., Batalini, F., & Moraes, F. Y. (2022). An overview of artificial intelligence in oncology. Future Science OA, 8(4), FSO787. [[paper]](https://www.future-science.com/doi/full/10.2144/fsoa-2021-0074).
+- Qayyum, A., Butt, M. A., Ali, H., Usman, M., Halabi, O., Al-Fuqaha, A., ... & Qadir, J. (2022). Secure and trustworthy artificial intelligence-extended reality (AI-XR) for metaverses. ACM Computing Surveys. [[paper]](https://dl.acm.org/doi/abs/10.1145/3614426).
+  
 **2021**
 - Paladugu,
   
