@@ -150,9 +150,11 @@ Please consider cite our paper if you find this repo is helpful. The link will b
   
 # Clinical Trial Optimization
 **2023**
-- Paladugu,
+- Thomas, M., Bender, A., & de Graaf, C. (2023). Integrating structure-based approaches in generative molecular design. Current Opinion in Structural Biology, 79, 102559. [[paper]](https://www.sciencedirect.com/science/article/pii/S0959440X23000337).
+- Meskó, B., & Topol, E. J. (2023). The imperative for regulatory oversight of large language models (or generative AI) in healthcare. npj Digital Medicine, 6(1), 120. [[paper]](https://www.nature.com/articles/s41746-023-00873-0).
+  
 **2022**
-- Paladugu,
+- Zeng, X., Wang, F., Luo, Y., Kang, S. G., Tang, J., Lightstone, F. C., ... & Cheng, F. (2022). Deep generative molecular design reshapes drug discovery. Cell Reports Medicine. [[paper]](https://www.cell.com/cell-reports-medicine/pdf/S2666-3791(22)00349-4.pdf).
 
  **2021**
 - Bung, N., Krishnan, S. R., Bulusu, G., & Roy, A. (2021). De novo design of new chemical entities for SARS-CoV-2 using artificial intelligence. Future medicinal chemistry, 13(06), 575-585.Bung, N., Krishnan, S. R., Bulusu, G., & Roy, A. (2021). De novo design of new chemical entities for SARS-CoV-2 using artificial intelligence. Future medicinal chemistry, 13(06), 575-585. [[paper]](https://www.future-science.com/doi/full/10.4155/fmc-2020-0262).
