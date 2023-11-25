@@ -11,7 +11,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Chen, T., Hong, L., Yudistyra, V., Vincoff, S., & Chatterjee, P. (2023). Generative design of therapeutics that bind and modulate protein states. Current Opinion in Biomedical Engineering, 100496.
 - Huang, J., Neill, L., Wittbrodt, M., Melnick, D., Klug, M., Thompson, M., ... & Etemadi, M. (2023). Generative Artificial Intelligence for Chest Radiograph Interpretation in the Emergency Department. JAMA network open, 6(10), e2336100-e2336100.
 - Jain, P., & Gupta, S. (2023). Blood flow prediction in multi-exposure speckle contrast imaging using conditional generative adversarial network. Cureus, 15(4).
-- Cheng, K., Li, Z., He, Y., Guo, Q., Lu, Y., Gu, S., & Wu, H. (2023). Potential use of artificial intelligence in infectious disease: take ChatGPT as an example. Annals of Biomedical Engineering, 1-6.
+- Cheng, K., Li, Z., He, Y., Guo, Q., Lu, Y., Gu, S., & Wu, H. (2023). Potential use of artificial intelligence in infectious disease: take ChatGPT as an example. Annals of Biomedical Engineering, 1-6. 
 
 
 ## Contents
@@ -65,7 +65,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Tang, B., Ewalt, J., & Ng, H. L. (2021). Generative AI models for drug discovery. In Biophysical and Computational Tools in Drug Discovery (pp. 221-243). Cham: Springer International Publishing. [[paper]](https://link.springer.com/chapter/10.1007/7355_2021_124).
 - Jiménez-Luna, J., Grisoni, F., Weskamp, N., & Schneider, G. (2021). Artificial intelligence in drug discovery: recent advances and future perspectives. Expert opinion on drug discovery, 16(9), 949-959. [[paper]](https://www.tandfonline.com/doi/full/10.1080/17460441.2021.1909567).
   
- **2020**
+**2020**
 - Zhavoronkov, A., Vanhaelen, Q., & Oprea, T. I. (2020). Will artificial intelligence for drug discovery impact clinical pharmacology?. Clinical Pharmacology & Therapeutics, 107(4), 780-785. [[paper]](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.1795).
 - Schneider, P., Walters, W. P., Plowright, A. T., Sieroka, N., Listgarten, J., Goodnow Jr, R. A., ... & Schneider, G. (2020). Rethinking drug design in the artificial intelligence era. Nature Reviews Drug Discovery, 19(5), 353-364. [[paper]](https://www.nature.com/articles/s41573-019-0050-3).
 - Keshavarzi Arshadi, A., Webb, J., Salem, M., Cruz, E., Calad-Thomson, S., Ghadirian, N., ... & Yuan, J. S. (2020). Artificial intelligence for COVID-19 drug discovery and vaccine development. Frontiers in Artificial Intelligence, 65. [[paper]](https://www.frontiersin.org/articles/10.3389/frai.2020.00065/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Artificial_Intelligence&id=560670).
