@@ -108,7 +108,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Alarcón, Á. S., Madrid, N. M., Seepold, R., & Ortega, J. A. (2021, November). The role of digital twins in personalized sleep medicine. In German-Italian Workshop Social Innovation in Long-Term Care through Digitalization (pp. 71-79). Cham: Springer International Publishing. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16855-0_8).
   
  **2020**
-- Paladugu,
+- Hopkins, J. J., Keane, P. A., & Balaskas, K. (2020). Delivering personalized medicine in retinal care: from artificial intelligence algorithms to clinical application. Current opinion in ophthalmology, 31(5), 329-336. [[paper]](https://journals.lww.com/co-ophthalmology/Fulltext/2020/09000/Delivering_personalized_medicine_in_retinal_care_.6.aspx?context=LatestArticles).
   
 # Disease Modeling and Prediction
 **2023**
