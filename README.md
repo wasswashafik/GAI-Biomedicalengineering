@@ -75,6 +75,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Giuste, F., Shi, W., Zhu, Y., Naren, T., Isgut, M., Sha, Y., ... & Wang, M. D. (2022). Explainable artificial intelligence methods in combating pandemics: A systematic review. IEEE Reviews in Biomedical Engineering. [[paper]](https://ieeexplore.ieee.org/abstract/document/9804787).
 - Krishnan, R., Rajpurkar, P., & Topol, E. J. (2022). Self-supervised learning in medicine and healthcare. Nature Biomedical Engineering, 6(12), 1346-1352. [[paper]](https://www.nature.com/articles/s41551-022-00914-1).
 - Zhang, A., Xing, L., Zou, J., & Wu, J. C. (2022). Shifting machine learning for healthcare from development to deployment and from models to data. Nature Biomedical Engineering, 6(12), 1330-1345. [[paper]](https://www.nature.com/articles/s41551-022-00898-y).
+- Barragán-Montero, A., Javaid, U., Valdés, G., Nguyen, D., Desbordes, P., Macq, B., ... & Lee, J. A. (2021). Artificial intelligence and machine learning for medical imaging: A technology review. Physica Medica, 83, 242-256. [[paper]](https://www.sciencedirect.com/science/article/pii/S1120179721001733).
 
 **2021**
 - Akram, S., Athar,
