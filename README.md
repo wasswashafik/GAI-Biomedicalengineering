@@ -95,6 +95,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Godwin, R. C., & Melvin, R. L. (2023). The role of quality metrics in the evolution of AI in health care and implications for generative AI. Physiological Reviews, 103(4), 2893-2895. [[paper]](https://journals.physiology.org/doi/pdf/10.1152/physrev.00029.2023).
 - Singh, A. V., Chandrasekar, V., Paudel, N., Laux, P., Luch, A., Gemmati, D., ... & Dakua, S. P. (2023). Integrative toxicogenomics: Advancing precision medicine and toxicology through artificial intelligence and OMICs technology. Biomedicine & Pharmacotherapy, 163, 114784.[[paper]](https://www.sciencedirect.com/science/article/pii/S0753332223005735).
 - Zhang, P., & Kamel Boulos, M. N. (2023). Generative AI in Medicine and Healthcare: Promises, Opportunities and Challenges. Future Internet, 15(9), 286. [[paper]](https://www.mdpi.com/1999-5903/15/9/286).
+- Boscardin, C. K., Gin, B., Golde, P. B., & Hauer, K. E. (2023). ChatGPT and generative artificial intelligence for medical education: potential impact and opportunity. Academic Medicine, 10-1097. [[paper]](https://journals.lww.com/academicmedicine/abstract/9900/chatgpt_and_generative_artificial_intelligence_for.547.aspx).
   
 **2022**
 - Paladugu,
@@ -102,6 +103,8 @@ Please consider cite our paper if you find this repo is helpful. The link will b
  **2021**
 - Boniolo, F., Dorigatti, E., Ohnmacht, A. J., Saur, D., Schubert, B., & Menden, M. P. (2021). Artificial intelligence in early drug discovery enabling precision medicine. Expert Opinion on Drug Discovery, 16(9), 991-1007. [[paper]](https://www.tandfonline.com/doi/full/10.1080/17460441.2021.1918096).
 - Hussain, A., & Naaz, S. (2021). Use of Deep Learning in Personalized Medicine: Current Trends and the Future Perspective. ICIDSSD 2020, 21. [[paper]](https://books.google.com.bn/books?hl=en&lr=&id=3h0oEAAAQBAJ&oi=fnd&pg=PA21&dq=Personalized+Medicine+Generative+AI&ots=5GUOXxOM-l&sig=uWVl_EbyMJvi5X6TdsW7f7ER-cI&redir_esc=y#v=onepage&q&f=false).
+- Srija, K., Prithvi, P. P. R., Saxena, A., Grover, A., Chandra, S., & Jain, S. J. (2021). Artificial Intelligence in Personalized Medicine. Artificial Intelligence and Machine Learning in Healthcare, 57-69. [[paper]](https://link.springer.com/chapter/10.1007/978-981-16-0811-7_3).
+- Koohi-Moghadam, M., & Bae, K. T. (2023). Generative AI in Medical Imaging: Applications, Challenges, and Ethics. Journal of Medical Systems, 47(1), 94. [[paper]](https://link.springer.com/article/10.1007/s10916-023-01987-4).
   
  **2020**
 - Paladugu,
