@@ -82,7 +82,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Tomar, N. K., Jha, D., Riegler, M. A., Johansen, H. D., Johansen, D., Rittscher, J., ... & Ali, S. (2022). Fanet: A feedback attention network for improved biomedical image segmentation. IEEE Transactions on Neural Networks and Learning Systems. [[paper]](https://ieeexplore.ieee.org/abstract/document/9741842).
 - Iqbal, A., Sharif, M., Yasmin, M., Raza, M., & Aftab, S. (2022). Generative adversarial networks and its applications in the biomedical image segmentation: a comprehensive survey. International Journal of Multimedia Information Retrieval, 11(3), 333-368. [[paper]](https://link.springer.com/article/10.1007/s13735-022-00240-x).
 
- **2021**
+**2021**
 - Gil, H. M., Price, T. W., Chelani, K., Bouillard, J. S. G., Calaminus, S. D., & Stasiuk, G. J. (2021). NIR-quantum dots in biomedical imaging and their future. Iscience, 24(3). [[paper]](https://www.cell.com/iscience/pdf/S2589-0042(21)00157-7.pdf).
 - Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211. [[paper]](https://www.nature.com/articles/s41592-020-01008-z.).
   
@@ -100,14 +100,14 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 **2022**
 - Sun, Z., & Ng, C. K. (2022). Finetuned super-resolution generative adversarial network (artificial intelligence) model for calcium deblooming in coronary computed tomography angiography. Journal of Personalized Medicine, 12(9), 1354. [[paper]](https://www.mdpi.com/2075-4426/12/9/1354).
 
- **2021**
+**2021**
 - Boniolo, F., Dorigatti, E., Ohnmacht, A. J., Saur, D., Schubert, B., & Menden, M. P. (2021). Artificial intelligence in early drug discovery enabling precision medicine. Expert Opinion on Drug Discovery, 16(9), 991-1007. [[paper]](https://www.tandfonline.com/doi/full/10.1080/17460441.2021.1918096).
 - Hussain, A., & Naaz, S. (2021). Use of Deep Learning in Personalized Medicine: Current Trends and the Future Perspective. ICIDSSD 2020, 21. [[paper]](https://books.google.com.bn/books?hl=en&lr=&id=3h0oEAAAQBAJ&oi=fnd&pg=PA21&dq=Personalized+Medicine+Generative+AI&ots=5GUOXxOM-l&sig=uWVl_EbyMJvi5X6TdsW7f7ER-cI&redir_esc=y#v=onepage&q&f=false).
 - Srija, K., Prithvi, P. P. R., Saxena, A., Grover, A., Chandra, S., & Jain, S. J. (2021). Artificial Intelligence in Personalized Medicine. Artificial Intelligence and Machine Learning in Healthcare, 57-69. [[paper]](https://link.springer.com/chapter/10.1007/978-981-16-0811-7_3).
 - Koohi-Moghadam, M., & Bae, K. T. (2023). Generative AI in Medical Imaging: Applications, Challenges, and Ethics. Journal of Medical Systems, 47(1), 94. [[paper]](https://link.springer.com/article/10.1007/s10916-023-01987-4).
 - Alarcón, Á. S., Madrid, N. M., Seepold, R., & Ortega, J. A. (2021, November). The role of digital twins in personalized sleep medicine. In German-Italian Workshop Social Innovation in Long-Term Care through Digitalization (pp. 71-79). Cham: Springer International Publishing. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16855-0_8).
   
- **2020**
+**2020**
 - Hopkins, J. J., Keane, P. A., & Balaskas, K. (2020). Delivering personalized medicine in retinal care: from artificial intelligence algorithms to clinical application. Current opinion in ophthalmology, 31(5), 329-336. [[paper]](https://journals.lww.com/co-ophthalmology/Fulltext/2020/09000/Delivering_personalized_medicine_in_retinal_care_.6.aspx?context=LatestArticles).
   
 # Disease Modeling and Prediction
