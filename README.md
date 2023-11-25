@@ -112,15 +112,24 @@ Please consider cite our paper if you find this repo is helpful. The link will b
   
 # Disease Modeling and Prediction
 **2023**
-- Paladugu,
+- Aliper, A., Kudrin, R., Polykovskiy, D., Kamya, P., Tutubalina, E., Chen, S., ... & Zhavoronkov, A. (2023). Prediction of Clinical Trials Outcomes Based on Target Choice and Clinical Trial Design with Multi‐Modal Artificial Intelligence. Clinical Pharmacology & Therapeutics. [[paper]](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.3008).
+- Vert, J. P. (2023). How will generative AI disrupt data science in drug discovery?. Nature Biotechnology, 1-2. [[paper]](https://www.nature.com/articles/s41587-023-01789-6).
+- Theodosiou, A. A., & Read, R. C. (2023). Artificial intelligence, machine learning and deep learning: Potential resources for the infection clinician. Journal of Infection. [[paper]](https://www.sciencedirect.com/science/article/pii/S0163445323003791).
+- Mardikoraem, M., Wang, Z., Pascual, N., & Woldring, D. (2023). Generative models for protein sequence modeling: recent advances and future directions. Briefings in Bioinformatics, 24(6), bbad358. [[paper]](https://academic.oup.com/bib/article/24/6/bbad358/7325909).
+  
 **2022**
-- Paladugu,
+- Sarra, R. R., Dinar, A. M., Mohammed, M. A., Ghani, M. K. A., & Albahar, M. A. (2022). A robust framework for data generative and heart disease prediction based on efficient deep learning models. Diagnostics, 12(12), 2899. [[paper]](https://www.mdpi.com/2075-4418/12/12/2899).
+- Huang, K., Fu, T., Gao, W., Zhao, Y., Roohani, Y., Leskovec, J., ... & Zitnik, M. (2022). Artificial intelligence foundation for therapeutic science. Nature chemical biology, 18(10), 1033-1036. [[paper]](https://www.nature.com/articles/s41589-022-01131-2).
 
  **2021**
-- Paladugu,
+- Frazer, J., Notin, P., Dias, M., Gomez, A., Min, J. K., Brock, K., ... & Marks, D. S. (2021). Disease variant prediction with deep generative models of evolutionary data. Nature, 599(7883), 91-95. [[paper]](https://www.nature.com/articles/s41586-021-04043-8).
   
  **2020**
-- Paladugu,
+- Jamshidi, M., Lalbakhsh, A., Talla, J., Peroutka, Z., Hadjilooei, F., Lalbakhsh, P., ... & Mohyuddin, W. (2020). Artificial intelligence and COVID-19: deep learning approaches for diagnosis and treatment. Ieee Access, 8, 109581-109595. [[paper]](https://ieeexplore.ieee.org/abstract/document/9115663).
+- Bohr, A., & Memarzadeh, K. (2020). The rise of artificial intelligence in healthcare applications. In Artificial Intelligence in healthcare (pp. 25-60). Academic Press. [[paper]](https://www.sciencedirect.com/science/article/pii/B9780128184387000022).
+- Ren, F., & Zhou, Y. (2020). Cgmvqa: A new classification and generative model for medical visual question answering. IEEE Access, 8, 50626-50636. [[paper]](https://ieeexplore.ieee.org/abstract/document/9032109).
+- Wang, W., Xu, H., Gan, Z., Li, B., Wang, G., Chen, L., ... & Carin, L. (2020, April). Graph-driven generative models for heterogeneous multi-task learning. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 01, pp. 979-988). [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5446).
+- Jiang, X., Zhao, J., Qian, W., Song, W., & Lin, G. N. (2020). A generative adversarial network model for disease gene prediction with RNA-seq data. IEEE Access, 8, 37352-37360. [[paper]](https://ieeexplore.ieee.org/abstract/document/9006830).
   
 # Drug Repurposing and Optimization
 **2023**
