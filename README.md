@@ -73,7 +73,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 ## Biomedical Imaging
 **2023**
 - Yang, J., Shi, R., Wei, D., Liu, Z., Zhao, L., Ke, B., ... & Ni, B. (2023). MedMNIST v2-A large-scale lightweight benchmark for 2D and 3D biomedical image classification. Scientific Data, 10(1), 41. [[paper]](https://www.nature.com/articles/s41597-022-01721-8).
-- 
+- Vannier, M. W., & Wang, G. (2023). Open-Source Inline Generative AI for Fast Cardiac MRI. Radiology, 307(5), e230957. [[paper]](https://pubs.rsna.org/doi/abs/10.1148/radiol.230957?journalCode=radiology).
 
 **2022**
 - Punn, N. S., & Agarwal, S. (2022). Modality specific U-Net variants for biomedical image segmentation: a survey. Artificial Intelligence Review, 55(7), 5845-5889. [[paper]](https://link.springer.com/article/10.1007/s10462-022-10152-1).
