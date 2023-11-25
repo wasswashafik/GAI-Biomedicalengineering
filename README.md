@@ -292,12 +292,18 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 **2022**
 - Liang, W., Tadesse, G. A., Ho, D., Fei-Fei, L., Zaharia, M., Zhang, C., & Zou, J. (2022). Advances, challenges and opportunities in creating data for trustworthy AI. Nature Machine Intelligence, 4(8), 669-677. [[paper]](https://www.nature.com/articles/s42256-022-00516-1).
+- Shmatko, A., Ghaffari Laleh, N., Gerstung, M., & Kather, J. N. (2022). Artificial intelligence in histopathology: enhancing cancer research and clinical oncology. Nature cancer, 3(9), 1026-1038. [[paper]](https://www.nature.com/articles/s43018-022-00436-4).
+- Paul, W., Hadzic, A., Joshi, N., Alajaji, F., & Burlina, P. (2022). Tara: training and representation alteration for ai fairness and domain generalization. Neural Computation, 34(3), 716-753. [[paper]](https://direct.mit.edu/neco/article-abstract/34/3/716/109060/TARA-Training-and-Representation-Alteration-for-AI).
   
 **2021**
-- Paladugu,
+- Norori, N., Hu, Q., Aellen, F. M., Faraci, F. D., & Tzovara, A. (2021). Addressing bias in big data and AI for health care: A call for open science. Patterns, 2(10). [[paper]](https://www.cell.com/patterns/pdf/S2666-3899(21)00202-6.pdf).
   
 **2020**
-- Paladugu,
+- Lopez, R., Gayoso, A., & Yosef, N. (2020). Enhancing scientific discoveries in molecular biology with deep generative models. Molecular systems biology, 16(9), e9198. [[paper]](https://www.embopress.org/doi/full/10.15252/msb.20199198).
+- Willemink, M. J., Koszek, W. A., Hardell, C., Wu, J., Fleischmann, D., Harvey, H., ... & Lungren, M. P. (2020). Preparing medical imaging data for machine learning. Radiology, 295(1), 4-15. [[paper]](https://pubs.rsna.org/doi/full/10.1148/radiol.2020192224).
+- Yan, W., Huang, L., Xia, L., Gu, S., Yan, F., Wang, Y., & Tao, Q. (2020). MRI manufacturer shift and adaptation: increasing the generalizability of deep learning segmentation for MR images acquired with different scanners. Radiology: Artificial Intelligence, 2(4), e190195. [[paper]](https://pubs.rsna.org/doi/full/10.1148/ryai.2020190195).
+- Bates, D. W., Auerbach, A., Schulam, P., Wright, A., & Saria, S. (2020). Reporting and implementing interventions involving machine learning and artificial intelligence. Annals of internal medicine, 172(11_Supplement), S137-S144. [[paper]](https://www.acpjournals.org/doi/full/10.7326/M19-0872).
+- Shaker, A. M., Tantawi, M., Shedeed, H. A., & Tolba, M. F. (2020). Generalization of convolutional neural networks for ECG classification using generative adversarial networks. IEEE Access, 8, 35592-35605. [[paper]](https://ieeexplore.ieee.org/abstract/document/9000871).
   
 ## Vulnerability to Adversarial Attacks
  **2023**
