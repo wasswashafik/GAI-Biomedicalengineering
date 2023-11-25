@@ -279,7 +279,9 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Fiorani, S. (2021). Explainable artificial intelligence: review and applications in medical field. [[paper]](https://www.politesi.polimi.it/handle/10589/179059).
   
 **2020**
-- Paladugu,
+- Tjoa, E., & Guan, C. (2020). A survey on explainable artificial intelligence (xai): Toward medical xai. IEEE transactions on neural networks and learning systems, 32(11), 4793-4813. [[paper]](https://ieeexplore.ieee.org/abstract/document/9233366).
+- Reyes, M., Meier, R., Pereira, S., Silva, C. A., Dahlweid, F. M., Tengg-Kobligk, H. V., ... & Wiest, R. (2020). On the interpretability of artificial intelligence in radiology: challenges and opportunities. Radiology: artificial intelligence, 2(3), e190043. [[paper]](https://pubs.rsna.org/doi/full/10.1148/ryai.2020190043).
+- Malolan, B., Parekh, A., & Kazi, F. (2020, March). Explainable deep-fake detection using visual interpretability methods. In 2020 3rd International Conference on Information and Computer Technologies (ICICT) (pp. 289-293). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/9092227).
 
 ## Resource Intensiveness and Computational Complexity
 **2023**
