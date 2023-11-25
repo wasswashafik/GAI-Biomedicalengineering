@@ -11,9 +11,9 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 ## Contents
 
 * [Applications of GANs in Biomedical Engineering](#applications-of-gans-in-agriculture)
-  * [Precision Agriculture](#precision-agriculture)
-    * [Plant Health](#plant-health)
-    * [Weeds](#weeds)
+  * [Drug Discovery Development](#drug-discovery-development)
+    * [Biomedical Imaging](#biomedical-imaging)
+    * [Personalized Medicine](#personalized-medicine)
     * [Fruit Detection](#fruit-detection)
     * [Aquaculture](#aquaculture)
     * [Animal Farming](#animal-farming)
