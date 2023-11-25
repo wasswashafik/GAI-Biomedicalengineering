@@ -193,6 +193,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Zhavoronkov, A., Zagribelnyy, B., Zhebrak, A., Aladinskiy, V., Terentiev, V., Vanhaelen, Q., ... & Ivanenkov, Y. (2020). Potential non-covalent SARS-CoV-2 3C-like protease inhibitors designed using generative deep learning approaches and reviewed by human medicinal chemist in virtual reality. [[paper]](https://europepmc.org/article/ppr/ppr171356).
 - Lin, E., Lin, C. H., & Lane, H. Y. (2020). Relevant applications of generative adversarial networks in drug design and discovery: molecular de novo design, dimensionality reduction, and de novo peptide and protein design. Molecules, 25(14), 3250. [[paper]](https://www.mdpi.com/1420-3049/25/14/3250).
 - Bullock, J., Luccioni, A., Pham, K. H., Lam, C. S. N., & Luengo-Oroz, M. (2020). Mapping the landscape of artificial intelligence applications against COVID-19. Journal of Artificial Intelligence Research, 69, 807-845. [[paper]](https://www.jair.org/index.php/jair/article/view/12162).
+- Liu, J., Li, J., Wang, H., & Yan, J. (2020). Application of deep learning in genomics. Science China Life Sciences, 63, 1860-1878. [[paper]](https://link.springer.com/article/10.1007/s11427-020-1804-5). 
   
 # Drug Side Effects Prediction
 **2023**
