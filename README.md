@@ -57,6 +57,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Martinelli, D. D. (2022). Generative machine learning for de novo drug discovery: A systematic review. Computers in Biology and Medicine, 145, 105403. [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482522001950).
 - Zeng, X., Wang, F., Luo, Y., Kang, S. G., Tang, J., Lightstone, F. C., ... & Cheng, F. (2022). Deep generative molecular design reshapes drug discovery. Cell Reports Medicine. [[paper]](https://www.sciencedirect.com/science/article/pii/S2666379122003494).
 - Deng, J., Yang, Z., Ojima, I., Samaras, D., & Wang, F. (2022). Artificial intelligence in drug discovery: applications and techniques. Briefings in Bioinformatics, 23(1), bbab430. [[paper]](https://academic.oup.com/bib/article-abstract/23/1/bbab430/6420092).
+- Moingeon, P., Kuenemann, M., & Guedj, M. (2022). Artificial intelligence-enhanced drug design and development: Toward a computational precision medicine. Drug discovery today, 27(1), 215-222. [[paper]](https://www.sciencedirect.com/science/article/pii/S1359644621003962).
 
  **2021**
 - Bian, Y., & Xie, X. Q. (2021). Generative chemistry: drug discovery with deep learning generative models. Journal of Molecular Modeling, 27, 1-18. [[paper]](https://link.springer.com/article/10.1007/s00894-021-04674-8).
