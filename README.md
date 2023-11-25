@@ -66,7 +66,8 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Jiménez-Luna, J., Grisoni, F., Weskamp, N., & Schneider, G. (2021). Artificial intelligence in drug discovery: recent advances and future perspectives. Expert opinion on drug discovery, 16(9), 949-959. [[paper]](https://www.tandfonline.com/doi/full/10.1080/17460441.2021.1909567).
   
  **2020**
-- Paladugu,
+- Zhavoronkov, A., Vanhaelen, Q., & Oprea, T. I. (2020). Will artificial intelligence for drug discovery impact clinical pharmacology?. Clinical Pharmacology & Therapeutics, 107(4), 780-785. [[paper]](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.1795).
+- 
   
 ## Biomedical Imaging
 **2023**
