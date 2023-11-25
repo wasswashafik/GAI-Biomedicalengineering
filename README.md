@@ -105,6 +105,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Hussain, A., & Naaz, S. (2021). Use of Deep Learning in Personalized Medicine: Current Trends and the Future Perspective. ICIDSSD 2020, 21. [[paper]](https://books.google.com.bn/books?hl=en&lr=&id=3h0oEAAAQBAJ&oi=fnd&pg=PA21&dq=Personalized+Medicine+Generative+AI&ots=5GUOXxOM-l&sig=uWVl_EbyMJvi5X6TdsW7f7ER-cI&redir_esc=y#v=onepage&q&f=false).
 - Srija, K., Prithvi, P. P. R., Saxena, A., Grover, A., Chandra, S., & Jain, S. J. (2021). Artificial Intelligence in Personalized Medicine. Artificial Intelligence and Machine Learning in Healthcare, 57-69. [[paper]](https://link.springer.com/chapter/10.1007/978-981-16-0811-7_3).
 - Koohi-Moghadam, M., & Bae, K. T. (2023). Generative AI in Medical Imaging: Applications, Challenges, and Ethics. Journal of Medical Systems, 47(1), 94. [[paper]](https://link.springer.com/article/10.1007/s10916-023-01987-4).
+- Alarcón, Á. S., Madrid, N. M., Seepold, R., & Ortega, J. A. (2021, November). The role of digital twins in personalized sleep medicine. In German-Italian Workshop Social Innovation in Long-Term Care through Digitalization (pp. 71-79). Cham: Springer International Publishing. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16855-0_8).
   
  **2020**
 - Paladugu,
