@@ -65,9 +65,30 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 
 
+# [Ethical and Regulatory Considerations](#ethical-and-regulatory-considerations)
+ ## Ethical GAI Consideration
+ **2023**
+- Paladugu,
+**2022**
+- Paladugu,
 
+ **2021**
+- Paladugu,
+  
+ **2020**
+- Paladugu,
+  
+## Regulatory Consideration
+ **2023**
+- Paladugu,
+**2022**
+- Paladugu,
 
-
+ **2021**
+- Paladugu,
+  
+ **2020**
+- Paladugu,
 
 # Generative Artificial Intelligence Challenges and Limitations
 ## Data Scarcity and Quality
