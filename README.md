@@ -18,6 +18,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
     * [Disease Modeling and Prediction](#disease-modeling-and-prediction)
     * [Drug Repurposing and Optimization](#drug-repurposing-and-optimization)
     * [Clinical Trial Optimization](#clinical-trial-optimization)
+    * [Genomic Editing and Design](#genomic-editing-and-design)
   * [Plant Phenotyping](#plant-phenotyping)
   * [Postharvest Quality Assessment](#postharvest-quality-assessment)
 * [GAN Achitectures](#gan-achitectures)
