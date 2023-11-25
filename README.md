@@ -73,4 +73,5 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Alshammari, S., Al-Sawalha, M. M., & Humaidi, J. R. (2023). Fractional view study of the brusselator reaction–diffusion model occurring in chemical reactions. Fractal and Fractional, 7(2), 108. [[paper]](https://www.mdpi.com/2504-3110/7/2/108).
 
 **2022**
-- Alshammari, S., Al-Sawalha, M. M., & Humaidi, J. R. (2023). Fractional view study of the brusselator reaction–diffusion model occurring in chemical reactions. Fractal and Fractional, 7(2), 108. [[paper]](https://www.mdpi.com/2504-3110/7/2/108). 
+- Pinaya, W. H., Tudosiu, P. D., Dafflon, J., Da Costa, P. F., Fernandez, V., Nachev, P., ... & Cardoso, M. J. (2022, September). Brain imaging generation with latent diffusion models. In MICCAI Workshop on Deep Generative Models (pp. 117-126). Cham: Springer Nature Switzerland. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-18576-2_12).
+- Waibel, D. J., Röell, E., Rieck, B., Giryes, R., & Marr, C. (2023, April). A diffusion model predicts 3d shapes from 2d microscopy images. In 2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI) (pp. 1-5). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/10230752).
