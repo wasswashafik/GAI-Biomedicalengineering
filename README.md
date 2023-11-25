@@ -40,6 +40,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
   
 * [GAI Implementations](#gan-implementations)
 - Pytorch Environment: https://realpython.com/generative-adversarial-networks/
+- SaS: https://blogs.sas.com/content/sascom/2023/03/03/generative-ai-benefits-risks-and-a-framework-for-responsible-innovation/
 * [Applications of Diffusion Models in Biomedical Engineering](#applications-of-diffusion-models-in-biomedical-engineering)
 
 
