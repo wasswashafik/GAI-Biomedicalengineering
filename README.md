@@ -208,7 +208,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Paladugu,
   
 # Ethical and Regulatory Considerations
- ## Ethical GAI Consideration
+## Ethical GAI Consideration
 **2023**
 - Paladugu,
 **2022**
@@ -244,7 +244,14 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 ## Regulatory and Ethical Constraints
  **2023**
-- Paladugu,
+- Harrer, S. (2023). Attention is not all you need: the complicated case of ethically using large language models in healthcare and medicine. EBioMedicine, 90. [[paper]](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00077-4/fulltext?ref=dedataverbinders.nl).
+- Fui-Hoon Nah, F., Zheng, R., Cai, J., Siau, K., & Chen, L. (2023). Generative AI and ChatGPT: Applications, challenges, and AI-human collaboration. Journal of Information Technology Case and Application Research, 25(3), 277-304. [[paper]](https://www.tandfonline.com/doi/full/10.1080/15228053.2023.2233814).
+- Porsdam Mann, S., Earp, B. D., Nyholm, S., Danaher, J., Møller, N., Bowman-Smart, H., ... & Savulescu, J. (2023). Generative AI entails a credit–blame asymmetry. Nature Machine Intelligence, 1-4. [[paper]](https://www.nature.com/articles/s42256-023-00653-1).
+- Hueso, M., Álvarez, R., Marí, D., Ribas-Ripoll, V., Lekadir, K., & Vellido, A. (2023). Is generative artificial intelligence the next step toward a personalized hemodialysis?. Revista de Investigacion Clinica; Organo del Hospital de Enfermedades de la Nutricion. [[paper]](https://www.researchgate.net/profile/Miguel-Hueso-2/publication/374024216_Is_Generative_Artificial_Intelligence_the_Next_Step_Toward_a_Personalized_Hemodialysis/links/650a76ce82f01628f032e7b3/Is-Generative-Artificial-Intelligence-the-Next-Step-Toward-a-Personalized-Hemodialysis.pdf).
+- Adhikari, K., Naik, N., Hameed, B. Z., Raghunath, S. K., & Somani, B. K. (2023). Exploring the ethical, legal, and social implications of ChatGPT in urology. Current Urology Reports, 1-8. [[paper]](https://link.springer.com/article/10.1007/s11934-023-01185-2).
+- Rane, N. (2023). ChatGPT and Similar Generative Artificial Intelligence (AI) for Smart Industry: Role, Challenges and Opportunities for Industry 4.0, Industry 5.0 and Society 5.0. Challenges and Opportunities for Industry, 4. [paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603234).
+- Li, S., Guo, Z., & Zang, X. (2023). Advancing the production of clinical medical devices through ChatGPT. Annals of Biomedical Engineering, 1-5. [[paper]](https://link.springer.com/article/10.1007/s10439-023-03300-3).
+  
 **2022**
 - Paladugu,
 **2021**
@@ -322,7 +329,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Keshavarzi Arshadi, A., Salem, M., Collins, J., Yuan, J. S., & Chakrabarti, D. (2020). DeepMalaria: artificial intelligence driven discovery of potent antiplasmodials. Frontiers in pharmacology, 10, 1526. [paper]](https://www.frontiersin.org/articles/10.3389/fphar.2019.01526/full?trk=public_post_comment-text).
 
 ## Bias and Generalization Issues
- **2023**
+**2023**
 - Wang, Q., Feng, Y., Huang, J., Lv, Y., Xie, Z., & Gao, X. (2023). Large-scale generative simulation artificial intelligence: The next hotspot. The Innovation, 4(6). [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10616373/).
 - Zhang, G., Jin, Q., McInerney, D. J., Chen, Y., Wang, F., Cole, C. L., ... & Peng, Y. (2023). Leveraging Generative AI for Clinical Evidence Summarization Needs to Achieve Trustworthiness. arXiv preprint arXiv:2311.11211. [[paper]](https://arxiv.org/abs/2311.11211).
 - Eysenbach, G. (2023). The role of ChatGPT, generative language models, and artificial intelligence in medical education: a conversation with ChatGPT and a call for papers. JMIR Medical Education, 9(1), e46885. [[paper]](https://mededu.jmir.org/2023/1/e46885/).
@@ -348,7 +355,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Shaker, A. M., Tantawi, M., Shedeed, H. A., & Tolba, M. F. (2020). Generalization of convolutional neural networks for ECG classification using generative adversarial networks. IEEE Access, 8, 35592-35605. [[paper]](https://ieeexplore.ieee.org/abstract/document/9000871).
   
 ## Vulnerability to Adversarial Attacks
- **2023**
+**2023**
 - Jung, J., Moon, H., Yu, G., & Hwang, H. (2023). Generative Perturbation Network for Universal Adversarial Attacks on Brain-Computer Interfaces. IEEE Journal of Biomedical and Health Informatics. [[paper]](https://ieeexplore.ieee.org/abstract/document/10213992).
 - Pauwels, E. (2023). How to Protect Biotechnology and Biosecurity from Adversarial AI Attacks? A Global Governance Perspective. In Cyberbiosecurity (pp. 173-184). Springer, Cham. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-26034-6_11).
 - Zhang, D., Dong, Y., & Yang, H. (2023). An adversarial defense algorithm based on robust U-net. Multimedia Tools and Applications, 1-27. [[paper]](https://link.springer.com/article/10.1007/s11042-023-17355-w).
