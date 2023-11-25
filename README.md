@@ -116,6 +116,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Vert, J. P. (2023). How will generative AI disrupt data science in drug discovery?. Nature Biotechnology, 1-2. [[paper]](https://www.nature.com/articles/s41587-023-01789-6).
 - Theodosiou, A. A., & Read, R. C. (2023). Artificial intelligence, machine learning and deep learning: Potential resources for the infection clinician. Journal of Infection. [[paper]](https://www.sciencedirect.com/science/article/pii/S0163445323003791).
 - Mardikoraem, M., Wang, Z., Pascual, N., & Woldring, D. (2023). Generative models for protein sequence modeling: recent advances and future directions. Briefings in Bioinformatics, 24(6), bbad358. [[paper]](https://academic.oup.com/bib/article/24/6/bbad358/7325909).
+- Maharjan, R., Lee, J. C., Lee, K., Han, H. K., Kim, K. H., & Jeong, S. H. (2023). Recent trends and perspectives of artificial intelligence-based machine learning from discovery to manufacturing in biopharmaceutical industry. Journal of Pharmaceutical Investigation, 1-24. [[paper]](https://link.springer.com/article/10.1007/s40005-023-00637-8).
   
 **2022**
 - Sarra, R. R., Dinar, A. M., Mohammed, M. A., Ghani, M. K. A., & Albahar, M. A. (2022). A robust framework for data generative and heart disease prediction based on efficient deep learning models. Diagnostics, 12(12), 2899. [[paper]](https://www.mdpi.com/2075-4418/12/12/2899).
@@ -133,15 +134,19 @@ Please consider cite our paper if you find this repo is helpful. The link will b
   
 # Drug Repurposing and Optimization
 **2023**
-- Paladugu,
+- Hasselgren, C., & Oprea, T. I. (2023). Artificial Intelligence for Drug Discovery: Are We There Yet?. Annual Review of Pharmacology and Toxicology, 64. [[paper]](https://www.annualreviews.org/doi/abs/10.1146/annurev-pharmtox-040323-040828).
+  
 **2022**
-- Paladugu,
+- Abbasi, M., Santos, B. P., Pereira, T. C., Sofia, R., Monteiro, N. R., Simões, C. J., ... & Arrais, J. P. (2022). Designing optimized drug candidates with Generative Adversarial Network. Journal of cheminformatics, 14(1), 40. [[paper]](https://link.springer.com/article/10.1186/s13321-022-00623-6).
+- Choudhury, C., Murugan, N. A., & Priyakumar, U. D. (2022). Structure-based drug repurposing: Traditional and advanced AI/ML-aided methods. Drug Discovery Today, 27(7), 1847-1861. [[paper]](https://www.sciencedirect.com/science/article/pii/S135964462200112X).
+- Cong, Y., & Endo, T. (2022). Multi-omics and artificial intelligence-guided drug repositioning: Prospects, challenges, and lessons learned from COVID-19. OMICS: A Journal of Integrative Biology, 26(7), 361-371. [[paper]](https://www.liebertpub.com/doi/full/10.1089/omi.2022.0068).
 
  **2021**
-- Paladugu,
+- Prasad, K., & Kumar, V. (2021). Artificial intelligence-driven drug repurposing and structural biology for SARS-CoV-2. Current Research in Pharmacology and Drug Discovery, 2, 100042. [[paper]](https://www.sciencedirect.com/science/article/pii/S2590257121000298).
+- Paul, D., Sanap, G., Shenoy, S., Kalyane, D., Kalia, K., & Tekade, R. K. (2021). Artificial intelligence in drug discovery and development. Drug discovery today, 26(1), 80. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/).
   
  **2020**
-- Paladugu,
+- Zhavoronkov, A., Aladinskiy, V., Zhebrak, A., Zagribelnyy, B., Terentiev, V., Bezrukov, D. S., ... & Ivanenkov, Y. (2020). Potential 2019-nCoV 3C-like protease inhibitors designed using generative deep learning approaches. [[paper]]().
   
 # Clinical Trial Optimization
 **2023**
