@@ -98,7 +98,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Boscardin, C. K., Gin, B., Golde, P. B., & Hauer, K. E. (2023). ChatGPT and generative artificial intelligence for medical education: potential impact and opportunity. Academic Medicine, 10-1097. [[paper]](https://journals.lww.com/academicmedicine/abstract/9900/chatgpt_and_generative_artificial_intelligence_for.547.aspx).
   
 **2022**
-- Paladugu,
+- Sun, Z., & Ng, C. K. (2022). Finetuned super-resolution generative adversarial network (artificial intelligence) model for calcium deblooming in coronary computed tomography angiography. Journal of Personalized Medicine, 12(9), 1354. [[paper]](https://www.mdpi.com/2075-4426/12/9/1354).
 
  **2021**
 - Boniolo, F., Dorigatti, E., Ohnmacht, A. J., Saur, D., Schubert, B., & Menden, M. P. (2021). Artificial intelligence in early drug discovery enabling precision medicine. Expert Opinion on Drug Discovery, 16(9), 991-1007. [[paper]](https://www.tandfonline.com/doi/full/10.1080/17460441.2021.1918096).
