@@ -40,6 +40,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 * [GAI Implementations](#gan-implementations)
 * [Applications of Diffusion Models in Biomedical Engineering](#applications-of-diffusion-models-in-biomedical-engineering)
 
+
 **2023**
 - Esmaeili, M., Toosi, A., Roshanpoor, A., Changizi, V., Ghazisaeedi, M., Rahmim, A., & Sabokrou, M. (2023). Generative Adversarial Networks for Anomaly Detection in Biomedical Imaging: A Study on Seven Medical Image Datasets. IEEE Access, 11, 17906-17921. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2023&q=Generative+Adversarial+Networks+for+Anomaly+Detection+in+Biomedical+Imaging%3A+A+Study+on+Seven+Medical+Image+Datasets&btnG=) [[paper]](https://ieeexplore.ieee.org/abstract/document/10043696)
 
