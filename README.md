@@ -76,6 +76,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Krishnan, R., Rajpurkar, P., & Topol, E. J. (2022). Self-supervised learning in medicine and healthcare. Nature Biomedical Engineering, 6(12), 1346-1352. [[paper]](https://www.nature.com/articles/s41551-022-00914-1).
 - Zhang, A., Xing, L., Zou, J., & Wu, J. C. (2022). Shifting machine learning for healthcare from development to deployment and from models to data. Nature Biomedical Engineering, 6(12), 1330-1345. [[paper]](https://www.nature.com/articles/s41551-022-00898-y).
 - Barragán-Montero, A., Javaid, U., Valdés, G., Nguyen, D., Desbordes, P., Macq, B., ... & Lee, J. A. (2021). Artificial intelligence and machine learning for medical imaging: A technology review. Physica Medica, 83, 242-256. [[paper]](https://www.sciencedirect.com/science/article/pii/S1120179721001733).
+- Maier, A., Köstler, H., Heisig, M., Krauss, P., & Yang, S. H. (2022). Known operator learning and hybrid machine learning in medical imaging—a review of the past, the present, and the future. Progress in Biomedical Engineering, 4(2), 022002. [[paper]](https://iopscience.iop.org/article/10.1088/2516-1091/ac5b13/meta).
 
 **2021**
 - Barragán-Montero, A., Javaid, U., Valdés, G., Nguyen, D., Desbordes, P., Macq, B., ... & Lee, J. A. (2021). Artificial intelligence and machine learning for medical imaging: A technology review. Physica Medica, 83, 242-256. [[paper]](https://www.sciencedirect.com/science/article/pii/S1120179721001733).
