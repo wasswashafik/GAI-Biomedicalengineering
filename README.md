@@ -71,7 +71,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Akram, S., Athar,
 
 **2022**
-- Akram, S., Athar,
+- Chen, Y., Yang, X. H., Wei, Z., Heidari, A. A., Zheng, N., Li, Z., ... & Guan, Q. (2022). Generative adversarial networks in medical image augmentation: A review. Computers in Biology and Medicine, 144, 105382. [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482522001743).
 
 **2021**
 - Akram, S., Athar,
