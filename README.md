@@ -70,7 +70,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 
 # Generative Artificial Intelligence Challenges and Limitations
-Data Scarcity and Quality
+## Data Scarcity and Quality
 **2023**
 - Paladugu,
 **2022**
@@ -79,7 +79,7 @@ Data Scarcity and Quality
  **2021**
 - Paladugu,
 
- * Regulatory and Ethical Constraints
+## Regulatory and Ethical Constraints
  **2023**
 - Paladugu,
 **2022**
@@ -90,7 +90,7 @@ Data Scarcity and Quality
 **2020**
 - Paladugu,
 
- * Model Explainability, Interpretability, and Transparency
+## Model Explainability, Interpretability, and Transparency
  **2023**
 - Paladugu,
 
@@ -103,8 +103,7 @@ Data Scarcity and Quality
 **2021**
 - Paladugu,
 
-
- * Resource Intensiveness and Computational Complexity
+## Resource Intensiveness and Computational Complexity
 **2023**
 - Paladugu,
 
@@ -117,7 +116,7 @@ Data Scarcity and Quality
 **2021**
 - Paladugu,
 
- * Bias and Generalization Issues
+## Bias and Generalization Issues
  **2023**
 - Paladugu,
 
@@ -130,7 +129,7 @@ Data Scarcity and Quality
 **2021**
 - Paladugu,
   
- * Vulnerability to Adversarial Attacks
+## Vulnerability to Adversarial Attacks
  **2023**
 - Paladugu,
 
