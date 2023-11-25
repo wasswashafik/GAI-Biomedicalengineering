@@ -68,6 +68,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
  **2020**
 - Zhavoronkov, A., Vanhaelen, Q., & Oprea, T. I. (2020). Will artificial intelligence for drug discovery impact clinical pharmacology?. Clinical Pharmacology & Therapeutics, 107(4), 780-785. [[paper]](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.1795).
 - Schneider, P., Walters, W. P., Plowright, A. T., Sieroka, N., Listgarten, J., Goodnow Jr, R. A., ... & Schneider, G. (2020). Rethinking drug design in the artificial intelligence era. Nature Reviews Drug Discovery, 19(5), 353-364. [[paper]](https://www.nature.com/articles/s41573-019-0050-3).
+- Keshavarzi Arshadi, A., Webb, J., Salem, M., Cruz, E., Calad-Thomson, S., Ghadirian, N., ... & Yuan, J. S. (2020). Artificial intelligence for COVID-19 drug discovery and vaccine development. Frontiers in Artificial Intelligence, 65. [[paper]](https://www.frontiersin.org/articles/10.3389/frai.2020.00065/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Artificial_Intelligence&id=560670).
   
 ## Biomedical Imaging
 **2023**
