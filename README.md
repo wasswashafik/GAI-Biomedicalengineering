@@ -69,6 +69,8 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 # GAI Review Papers
 **2023**
 - Paladugu, P. S., Ong, J., Nelson, N., Kamran, S. A., Waisberg, E., Zaman, N., ... & Tavakkoli, A. (2023). Generative adversarial networks in medicine: important considerations for this emerging innovation in artificial intelligence. Annals of Biomedical Engineering, 51(10), 2130-2142. [[paper]](https://link.springer.com/article/10.1007/s10439-023-03304-z).
+- Chen, R. J., Wang, J. J., Williamson, D. F., Chen, T. Y., Lipkova, J., Lu, M. Y., ... & Mahmood, F. (2023). Algorithmic fairness in artificial intelligence for medicine and healthcare. Nature biomedical engineering, 7(6), 719-742. [[paper]](https://www.nature.com/articles/s41551-023-01056-8).
+- Cheng, K., He, Y., Li, C., Xie, R., Lu, Y., Gu, S., & Wu, H. (2023). Talk with ChatGPT about the outbreak of Mpox in 2022: reflections and suggestions from AI dimensions. Annals of Biomedical Engineering, 1-5. [[paper]](https://link.springer.com/article/10.1007/s10439-023-03196-z).
 
 **2022**
 - Chen, Y., Yang, X. H., Wei, Z., Heidari, A. A., Zheng, N., Li, Z., ... & Guan, Q. (2022). Generative adversarial networks in medical image augmentation: A review. Computers in Biology and Medicine, 144, 105382. [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482522001743).
