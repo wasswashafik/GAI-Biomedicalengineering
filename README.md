@@ -297,10 +297,13 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Paladugu,
 
 **2022**
-- Paladugu,
+- Kaviani, S., Han, K. J., & Sohn, I. (2022). Adversarial attacks and defenses on AI in medical imaging informatics: A survey. Expert Systems with Applications, 198, 116815. [[paper]](https://www.sciencedirect.com/science/article/pii/S095741742200272X).
+- Hossain, K. F., Kamran, S. A., Tavakkoli, A., & Ma, X. (2022, September). ECG-ATK-GAN: Robustness Against Adversarial Attacks on ECGs Using Conditional Generative Adversarial Networks. In International Workshop on Applications of Medical AI (pp. 68-78). Cham: Springer Nature Switzerland. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-17721-7_8).
   
 **2021**
-- Paladugu,
+- Irfan, M. M., Ali, S., Yaqoob, I., & Zafar, N. (2021, April). Towards deep learning: A review on adversarial attacks. In 2021 International Conference on Artificial Intelligence (ICAI) (pp. 91-96). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/9445247).
+- Rasaee, H., & Rivaz, H. (2021, September). Explainable AI and susceptibility to adversarial attacks: A case study in classification of breast ultrasound images. In 2021 IEEE International Ultrasonics Symposium (IUS) (pp. 1-4). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/9593490).
+- Rahman, A., Hossain, M. S., Alrajeh, N. A., & Alsolami, F. (2020). Adversarial examples—Security threats to COVID-19 deep learning systems in medical IoT devices. IEEE Internet of Things Journal, 8(12), 9603-9610. [[paper]](https://ieeexplore.ieee.org/abstract/document/9154468).
   
 **2020**
 - Paladugu,
