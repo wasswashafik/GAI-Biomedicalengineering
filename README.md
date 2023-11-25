@@ -54,7 +54,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 **2023**
 - Paladugu,
 **2022**
-- Paladugu,
+- Martinelli, D. D. (2022). Generative machine learning for de novo drug discovery: A systematic review. Computers in Biology and Medicine, 145, 105403. [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482522001950).
 
  **2021**
 - Paladugu,
