@@ -80,7 +80,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Liu, J., Su, C., Chen, Y., Tian, S., Lu, C., Huang, W., & Lv, Q. (2022). Current understanding of the applications of photocrosslinked hydrogels in biomedical engineering. Gels, 8(4), 216. [[paper]](https://www.mdpi.com/2310-2861/8/4/216).
   
 **2021**
-- Riley, P. R., & Narayan, R. J. (2021). Recent advances in carbon nanomaterials for biomedical applications: A review. Current Opinion in Biomedical Engineering, 17, 100262.[[paper]][(https://www.mdpi.com/2079-4983/13/1/2](https://www.sciencedirect.com/science/article/pii/S2468451121000027).
+- Riley, P. R., & Narayan, R. J. (2021). Recent advances in carbon nanomaterials for biomedical applications: A review. Current Opinion in Biomedical Engineering, 17, 100262.[[paper]](https://www.sciencedirect.com/science/article/pii/S2468451121000027).
 
 **2020**
 - Miranda, I., Souza, A., Sousa, P., Ribeiro, J., Castanheira, E. M., Lima, R., & Minas, G. (2021). Properties and applications of PDMS for biomedical engineering: A review. Journal of functional biomaterials, 13(1), 2. [[paper]](https://www.mdpi.com/2079-4983/13/1/2).
