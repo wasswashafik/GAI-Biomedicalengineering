@@ -78,6 +78,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 **2022**
 - Punn, N. S., & Agarwal, S. (2022). Modality specific U-Net variants for biomedical image segmentation: a survey. Artificial Intelligence Review, 55(7), 5845-5889. [[paper]](https://link.springer.com/article/10.1007/s10462-022-10152-1).
 - Tomar, N. K., Jha, D., Riegler, M. A., Johansen, H. D., Johansen, D., Rittscher, J., ... & Ali, S. (2022). Fanet: A feedback attention network for improved biomedical image segmentation. IEEE Transactions on Neural Networks and Learning Systems. [[paper]](https://ieeexplore.ieee.org/abstract/document/9741842).
+- Iqbal, A., Sharif, M., Yasmin, M., Raza, M., & Aftab, S. (2022). Generative adversarial networks and its applications in the biomedical image segmentation: a comprehensive survey. International Journal of Multimedia Information Retrieval, 11(3), 333-368. [[paper]](https://link.springer.com/article/10.1007/s13735-022-00240-x).
 
  **2021**
 - Gil, H. M., Price, T. W., Chelani, K., Bouillard, J. S. G., Calaminus, S. D., & Stasiuk, G. J. (2021). NIR-quantum dots in biomedical imaging and their future. Iscience, 24(3). [[paper]](https://www.cell.com/iscience/pdf/S2589-0042(21)00157-7.pdf).
