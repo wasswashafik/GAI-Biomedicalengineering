@@ -72,12 +72,16 @@ Please consider cite our paper if you find this repo is helpful. The link will b
   
 ## Biomedical Imaging
 **2023**
-- Paladugu,
+- Yang, J., Shi, R., Wei, D., Liu, Z., Zhao, L., Ke, B., ... & Ni, B. (2023). MedMNIST v2-A large-scale lightweight benchmark for 2D and 3D biomedical image classification. Scientific Data, 10(1), 41. [[paper]](https://www.nature.com/articles/s41597-022-01721-8).
+- 
+
 **2022**
-- Paladugu,
+- Punn, N. S., & Agarwal, S. (2022). Modality specific U-Net variants for biomedical image segmentation: a survey. Artificial Intelligence Review, 55(7), 5845-5889. [[paper]](https://link.springer.com/article/10.1007/s10462-022-10152-1).
+- Tomar, N. K., Jha, D., Riegler, M. A., Johansen, H. D., Johansen, D., Rittscher, J., ... & Ali, S. (2022). Fanet: A feedback attention network for improved biomedical image segmentation. IEEE Transactions on Neural Networks and Learning Systems. [[paper]](https://ieeexplore.ieee.org/abstract/document/9741842).
 
  **2021**
-- Paladugu,
+- Gil, H. M., Price, T. W., Chelani, K., Bouillard, J. S. G., Calaminus, S. D., & Stasiuk, G. J. (2021). NIR-quantum dots in biomedical imaging and their future. Iscience, 24(3). [[paper]](https://www.cell.com/iscience/pdf/S2589-0042(21)00157-7.pdf).
+- Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211. [[paper]](https://www.nature.com/articles/s41592-020-01008-z.).
   
  **2020**
 - Paladugu,
