@@ -87,7 +87,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211. [[paper]](https://www.nature.com/articles/s41592-020-01008-z.).
   
  **2020**
-- Paladugu,
+- Mesejo, P., Martos, R., Ibáñez, Ó., Novo, J., & Ortega, M. (2020). A survey on artificial intelligence techniques for biomedical image analysis in skeleton-based forensic human identification. Applied Sciences, 10(14), 4703. [[paper]](https://www.mdpi.com/2076-3417/10/14/4703).
   
 ## Personalized Medicine
 **2023**
