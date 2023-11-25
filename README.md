@@ -10,8 +10,9 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 ## Contents
 
-* [Applications of GANs in Biomedical Engineering](#applications-of-gans-in-agriculture)
-  * [Drug Discovery Development](#drug-discovery-development)
+* [The Role Applications of GAIs in Biomedical Engineering](#applications-of-gans-in-agriculture)
+  * [Application of GAI in Biomedical Engineering](#drug-discovery-development)
+    * [Drug Discovery Development](#drug-discovery-development)
     * [Biomedical Imaging](#biomedical-imaging)
     * [Personalized Medicine](#personalized-medicine)
     * [Disease Modeling and Prediction](#disease-modeling-and-prediction)
