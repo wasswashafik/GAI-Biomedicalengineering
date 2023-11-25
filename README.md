@@ -255,7 +255,12 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 ## Model Explainability, Interpretability, and Transparency
  **2023**
-- Paladugu,
+- Karim, M. R., Islam, T., Shajalal, M., Beyan, O., Lange, C., Cochez, M., ... & Decker, S. (2023). Explainable AI for Bioinformatics: Methods, Tools and Applications. Briefings in bioinformatics, 24(5), bbad236. [[paper]](https://academic.oup.com/bib/article-abstract/24/5/bbad236/7227172).
+- Islam, M. N., Alam, M. G. R., Apon, T. S., Uddin, M. Z., Allheeib, N., Menshawi, A., & Hassan, M. M. (2023, January). Interpretable Differential Diagnosis of Non-COVID Viral Pneumonia, Lung Opacity and COVID-19 Using Tuned Transfer Learning and Explainable AI. In Healthcare (Vol. 11, No. 3, p. 410). MDPI. [[paper]](https://www.mdpi.com/2227-9032/11/3/410).
+- Nagahisarchoghaei, M., Nur, N., Cummins, L., Nur, N., Karimi, M. M., Nandanwar, S., ... & Rahimi, S. (2023). An empirical survey on explainable ai technologies: Recent trends, use-cases, and categories from technical and application perspectives. Electronics, 12(5), 1092. [[paper]](https://www.mdpi.com/2079-9292/12/5/1092).
+- Musalamadugu, T. S., & Kannan, H. (2023). Generative AI for medical imaging analysis and applications. Future Medicine AI, (0), FMAI5. [[paper]](https://www.futuremedicine.com/doi/full/10.2217/fmai-2023-0004).
+- Husnain, A., Rasool, S., Saeed, A., Gill, A. Y., & Hussain, H. K. (2023). AI'S Healing Touch: Examining Machine Learning's Transformative Effects On Healthcare. Journal of World Science, 2(10), 1681-1695. [[paper]](https://jws.rivierapublishing.id/index.php/jws/article/view/448).
+- Sun, Y., Pai, N., Ramesh, V. V., Aldeer, M., & Ortiz, J. (2023). GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces. arXiv preprint arXiv:2306.15857. [[paper]](https://arxiv.org/abs/2306.15857).
 
 **2022**
 - Paladugu,
