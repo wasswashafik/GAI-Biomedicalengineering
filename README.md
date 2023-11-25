@@ -39,7 +39,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 * [GAI Review Papers](#gai-review-papers)
   
 * [GAI Implementations](#gan-implementations)
-  https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
+- Pytorch Environment: https://realpython.com/generative-adversarial-networks/
 * [Applications of Diffusion Models in Biomedical Engineering](#applications-of-diffusion-models-in-biomedical-engineering)
 
 
