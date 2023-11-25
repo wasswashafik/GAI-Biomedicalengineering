@@ -65,7 +65,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 
 
-# [Ethical and Regulatory Considerations](#ethical-and-regulatory-considerations)
+# Ethical and Regulatory Considerations
  ## Ethical GAI Consideration
  **2023**
 - Paladugu,
