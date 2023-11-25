@@ -64,3 +64,4 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 # Applications of Diffusion Models in Biomedical Engineering
 **2023**
+- Akram, S., Athar, M., Saeed, K., Razia, A., Muhammad, T., & Alghamdi, H. A. (2023). Mathematical simulation of double diffusion convection on peristaltic pumping of Ellis nanofluid due to induced magnetic field in a non-uniform channel: Applications of magnetic nanoparticles in biomedical engineering. Journal of Magnetism and Magnetic Materials, 569, 170408. [[Link]](https://www.sciencedirect.com/science/article/pii/S0304885323000574).
