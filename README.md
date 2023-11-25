@@ -83,6 +83,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 **2020**
 - Lan, L., You, L., Zhang, Z., Fan, Z., Zhao, W., Zeng, N., ... & Zhou, X. (2020). Generative adversarial networks and its applications in biomedical informatics. Frontiers in public health, 8, 164. [[paper]](https://www.frontiersin.org/articles/10.3389/fpubh.2020.00164/full).
+- Segato, A., Marzullo, A., Calimeri, F., & De Momi, E. (2020). Artificial intelligence for brain diseases: A systematic review. APL bioengineering, 4(4). [[paper]](https://pubs.aip.org/aip/apb/article/4/4/041503/237256/Artificial-intelligence-for-brain-diseases-A).
 
 # GAI Implementations
 - Real Pytorch: https://realpython.com/generative-adversarial-networks/
