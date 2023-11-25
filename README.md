@@ -44,8 +44,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Google Cloud: https://cloud.google.com/ai/generative-ai
 - Gartner Experts: https://www.gartner.com/en/topics/generative-ai
 
-  
-* [Applications of Diffusion Models in Biomedical Engineering](#applications-of-diffusion-models-in-biomedical-engineering)
+  * [Applications of Diffusion Models in Biomedical Engineering](#applications-of-diffusion-models-in-biomedical-engineering)
 
 # The Role Applications of GAIs
 **2023**
@@ -56,4 +55,10 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Mesko, B. (2023). The ChatGPT (Generative Artificial Intelligence) Revolution Has Made Artificial Intelligence Approachable for Medical Professionals. Journal of Medical Internet Research, 25, e48392. [[Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+ChatGPT+%28Generative+Artificial+Intelligence%29+Revolution+Has+Made+Artificial+Intelligence+Approachable+for+Medical+Professionals&btnG=) [[paper]](https://www.jmir.org/2023/1/e48392/)
 - Al-Imam, A., Al-Hadithi, N., Alissa, F., & Michalak, M. (2023). Generative artificial intelligence in academic medical writing. Medical Journal of Babylon, 20(3), 654-656. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Generative+artificial+intelligence+in+academic+medical+writing&btnG=) [[paper]](https://journals.lww.com/mjby/_layouts/15/oaks.journals/downloadpdf.aspx?an=01216716-202320030-00039)
 
+
+# GAI Implementations
+- Real Pytorch: https://realpython.com/generative-adversarial-networks/
+- SaS: https://blogs.sas.com/content/sascom/2023/03/03/generative-ai-benefits-risks-and-a-framework-for-responsible-innovation/
+- Google Cloud: https://cloud.google.com/ai/generative-ai
+- Gartner Experts: https://www.gartner.com/en/topics/generative-ai
 
