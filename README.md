@@ -268,7 +268,20 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 ## Resource Intensiveness and Computational Complexity
 **2023**
-- Paladugu,
+- Liu, X., Zhang, W., Tong, X., Zhong, F., Li, Z., Xiong, Z., ... & Zheng, M. (2023). MolFilterGAN: a progressively augmented generative adversarial network for triaging AI-designed molecules. Journal of Cheminformatics, 15(1), 1-14. [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00711-1).
+- Jia, Z., Chen, J., Xu, X., Kheir, J., Hu, J., Xiao, H., ... & Shi, Y. (2023). The importance of resource awareness in artificial intelligence for healthcare. Nature Machine Intelligence, 1-12. [[paper]](https://www.nature.com/articles/s42256-023-00670-0).
+- Wang, H., Fu, T., Du, Y., Gao, W., Huang, K., Liu, Z., ... & Zitnik, M. (2023). Scientific discovery in the age of artificial intelligence. Nature, 620(7972), 47-60. [[paper]](https://www.nature.com/articles/s41586-023-06221-2).
+- Górriz, J. M., Álvarez-Illán, I., Álvarez-Marquina, A., Arco, J. E., Atzmueller, M., Ballarini, F., ... & Ferrández-Vicente, J. M. (2023). Computational approaches to Explainable Artificial Intelligence: Advances in theory, applications and trends. Information Fusion, 100, 101945. [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253523002610).
+- Cerchia, C., & Lavecchia, A. (2023). New avenues in artificial-intelligence-assisted drug discovery. Drug Discovery Today, 103516. [[paper]](https://www.sciencedirect.com/science/article/pii/S1359644623000326).
+- Raiaan, M. A. K., Mukta, M. S. H., Fatema, K., Fahad, N. M., Sakib, S., Mim, M., ... & Azam, S. (2023). A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges. [[paper]](https://www.techrxiv.org/articles/preprint/A_Review_on_Large_Language_Models_Architectures_Applications_Taxonomies_Open_Issues_and_Challenges/24171183).
+- Yang, Z., Chen, Y., Huangfu, H., Ran, M., Wang, H., Li, X., & Zhang, Y. (2023). Dynamic Corrected Split Federated Learning with Homomorphic Encryption for U-shaped Medical Image Networks. IEEE Journal of Biomedical and Health Informatics. [[paper]](https://ieeexplore.ieee.org/abstract/document/10256094).
+- Ren, Z., Li, Q., Cao, K., Li, M. M., Zhou, Y., & Wang, K. (2023). Model performance and interpretability of semi-supervised generative adversarial networks to predict oncogenic variants with unlabeled data. BMC bioinformatics, 24(1), 1-16. [[paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05141-2).
+- Yang, Q., Wang, Z., Guo, K., Cai, C., & Qu, X. (2023). Physics-driven synthetic data learning for biomedical magnetic resonance: The imaging physics-based data synthesis paradigm for artificial intelligence. IEEE Signal Processing Magazine, 40(2), 129-140. [[paper]](https://ieeexplore.ieee.org/abstract/document/10054205).
+- Siriborvornratanakul, T. (2023, July). Advanced artificial intelligence methods for medical applications. In International Conference on Human-Computer Interaction (pp. 329-340). Cham: Springer Nature Switzerland. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-35748-0_24).
+- Sankaran, K., & Holmes, S. P. (2023). Generative models: An interdisciplinary perspective. Annual Review of Statistics and Its Application, 10, 325-352. [[paper]](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-033121-110134).
+- Meyer, J. G., Urbanowicz, R. J., Martin, P. C., O’Connor, K., Li, R., Peng, P. C., ... & Moore, J. H. (2023). ChatGPT and large language models in academia: opportunities and challenges. BioData Mining, 16(1), 20. [[paper]](https://link.springer.com/article/10.1186/s13040-023-00339-9).
+- Cifci, D., Veldhuizen, G. P., Foersch, S., & Kather, J. N. (2023). AI in Computational Pathology of Cancer: Improving Diagnostic Workflows and Clinical Outcomes?. Annual Review of Cancer Biology, 7, 57-71. [[paper]](https://www.annualreviews.org/doi/abs/10.1146/annurev-cancerbio-061521-092038).
+- Zhao, B., Bai, J., Li, C., Zhang, J., Rong, W., Ouyang, Y., & Xiong, Z. (2023). Enhancing Biomedical ReQA With Adversarial Hard In-Batch Negative Samples. IEEE/ACM Transactions on Computational Biology and Bioinformatics. [[paper]](https://ieeexplore.ieee.org/abstract/document/10082873).
 
 **2022**
 - Paladugu,
