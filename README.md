@@ -79,9 +79,9 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Wolleb, J., Sandkühler, R., Bieder, F., Valmaggia, P., & Cattin, P. C. (2022, December). Diffusion models for implicit image segmentation ensembles. In International Conference on Medical Imaging with Deep Learning (pp. 1336-1348). PMLR. [[paper]](https://proceedings.mlr.press/v172/wolleb22a.html).
 - Liu, J., Su, C., Chen, Y., Tian, S., Lu, C., Huang, W., & Lv, Q. (2022). Current understanding of the applications of photocrosslinked hydrogels in biomedical engineering. Gels, 8(4), 216. [[paper]](https://www.mdpi.com/2310-2861/8/4/216).
   
-  **2021**
+**2021**
 - Miranda, I., Souza, A., Sousa, P., Ribeiro, J., Castanheira, E. M., Lima, R., & Minas, G. (2021). Properties and applications of PDMS for biomedical engineering: A review. Journal of functional biomaterials, 13(1), 2. [[paper]](https://www.mdpi.com/2079-4983/13/1/2).
 
-  **2020**
+**2020**
 - Miranda, I., Souza, A., Sousa, P., Ribeiro, J., Castanheira, E. M., Lima, R., & Minas, G. (2021). Properties and applications of PDMS for biomedical engineering: A review. Journal of functional biomaterials, 13(1), 2. [[paper]](https://www.mdpi.com/2079-4983/13/1/2).
 
