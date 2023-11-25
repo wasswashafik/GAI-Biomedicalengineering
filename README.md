@@ -37,7 +37,9 @@ Please consider cite our paper if you find this repo is helpful. The link will b
     * [Bias and Generalization Issues](#bias-and-generalization-issues)
     * [Vulnerability to Adversarial Attacks](#vulnerability-to-adversarial-attacks)
 * [GAI Review Papers](#gai-review-papers)
-  
+ - Real Pytorch:
+
+ 
 [GAI Implementations](#gan-implementations)
 - Real Pytorch: https://realpython.com/generative-adversarial-networks/
 - SaS: https://blogs.sas.com/content/sascom/2023/03/03/generative-ai-benefits-risks-and-a-framework-for-responsible-innovation/
@@ -54,7 +56,6 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Liu, Y., Yang, Z., Yu, Z., Liu, Z., Liu, D., Lin, H., ... & Shi, S. (2023). Generative artificial intelligence and its applications in materials science: Current situation and future perspectives. Journal of Materiomics. [[paper]](https://www.sciencedirect.com/science/article/pii/S2352847823000771).
 - Mesko, B. (2023). The ChatGPT (Generative Artificial Intelligence) Revolution Has Made Artificial Intelligence Approachable for Medical Professionals. Journal of Medical Internet Research, 25, e48392. [[paper]](https://www.jmir.org/2023/1/e48392/)
 - Al-Imam, A., Al-Hadithi, N., Alissa, F., & Michalak, M. (2023). Generative artificial intelligence in academic medical writing. Medical Journal of Babylon, 20(3), 654-656. [[paper]](https://journals.lww.com/mjby/_layouts/15/oaks.journals/downloadpdf.aspx?an=01216716-202320030-00039).
-
 
 # GAI Implementations
 - Real Pytorch: https://realpython.com/generative-adversarial-networks/
