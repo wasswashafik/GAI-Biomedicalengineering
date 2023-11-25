@@ -263,7 +263,13 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Sun, Y., Pai, N., Ramesh, V. V., Aldeer, M., & Ortiz, J. (2023). GeXSe (Generative Explanatory Sensor System): An Interpretable Deep Generative Model for Human Activity Recognition in Smart Spaces. arXiv preprint arXiv:2306.15857. [[paper]](https://arxiv.org/abs/2306.15857).
 
 **2022**
-- Paladugu,
+- Salahuddin, Z., Woodruff, H. C., Chatterjee, A., & Lambin, P. (2022). Transparency of deep neural networks for medical image analysis: A review of interpretability methods. Computers in biology and medicine, 140, 105111. [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482521009057).
+- Shen, M. W. (2022). Trust in AI: Interpretability is not necessary or sufficient, while black-box interaction is necessary and sufficient. arXiv preprint arXiv:2202.05302. [[paper]](https://arxiv.org/abs/2202.05302).
+- Holzinger, A., Kargl, M., Kipperer, B., Regitnig, P., Plass, M., & Müller, H. (2022). Personas for artificial intelligence (AI) an open source toolbox. IEEE Access, 10, 23732-23747. [[paper]](https://ieeexplore.ieee.org/abstract/document/9721903).
+- Ahsan, M. M., & Siddique, Z. (2022). Machine learning-based heart disease diagnosis: A systematic literature review. Artificial Intelligence in Medicine, 128, 102289. [[paper]](https://www.sciencedirect.com/science/article/pii/S0933365722000549).
+- Sengupta, A., Gupta, P., Priyadarshini, P., Kulshrestha, S., Chaurasia, A., & Narad, P. (2022). Integrating artificial intelligence techniques for analysis of next-generation sequencing data. Artificial Intelligence and Computational Dynamics for Biomedical Research, 8, 67. [[paper]](https://books.google.com.bn/books?hl=en&lr=&id=1GKVEAAAQBAJ&oi=fnd&pg=PA67&dq=Model+Explainability,+Interpretability,+and+Transparency+Generative+AI+biomedical&ots=YJ3Bs9J29K&sig=qxWv2agJHlxDjzQd54twvQPa-ac&redir_esc=y#v=onepage&q&f=false).
+- Gutierrez, L., Lim, J. S., Foo, L. L., Ng, W. Y., Yip, M., Lim, G. Y. S., ... & Ting, D. S. W. (2022). Application of artificial intelligence in cataract management: current and future directions. Eye and Vision, 9(1), 3. [[paper]](https://link.springer.com/article/10.1186/s40662-021-00273-z).
+- Thiagarajan, J. J., Thopalli, K., Rajan, D., & Turaga, P. (2022). Training calibration-based counterfactual explainers for deep learning models in medical image analysis. Scientific reports, 12(1), 597. [[paper]](https://www.nature.com/articles/s41598-021-04529-5).
   
 **2021**
 - Paladugu,
