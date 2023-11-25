@@ -10,7 +10,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 ## Contents
 
-* [Applications of GANs in Agriculture](#applications-of-gans-in-agriculture)
+* [Applications of GANs in Biomedical Engineering](#applications-of-gans-in-agriculture)
   * [Precision Agriculture](#precision-agriculture)
     * [Plant Health](#plant-health)
     * [Weeds](#weeds)
@@ -22,7 +22,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 * [GAN Achitectures](#gan-achitectures)
 * [GAN Review Papers](#gan-review-papers)
 * [GAN Implementations](#gan-implementations)
-* [Applications of Diffusion Models in Agriculture](#applications-of-diffusion-models-in-agriculture)
+* [Applications of Diffusion Models in Biomedical Engineering](#applications-of-diffusion-models-in-agriculture)
 
 # Applications of GANs in Agriculture
 ## Precision Agriculture
