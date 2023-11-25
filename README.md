@@ -63,11 +63,106 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 
 
+# Application of GAI in Biomedical Engineering
+## Drug Discovery Development
+**2023**
+- Paladugu,
+**2022**
+- Paladugu,
 
+ **2021**
+- Paladugu,
+  
+ **2020**
+- Paladugu,
+  
+## Biomedical Imaging
+**2023**
+- Paladugu,
+**2022**
+- Paladugu,
 
+ **2021**
+- Paladugu,
+  
+ **2020**
+- Paladugu,
+  
+## Personalized Medicine
+**2023**
+- Paladugu,
+**2022**
+- Paladugu,
+
+ **2021**
+- Paladugu,
+  
+ **2020**
+- Paladugu,
+  
+# Disease Modeling and Prediction
+**2023**
+- Paladugu,
+**2022**
+- Paladugu,
+
+ **2021**
+- Paladugu,
+  
+ **2020**
+- Paladugu,
+  
+# Drug Repurposing and Optimization
+**2023**
+- Paladugu,
+**2022**
+- Paladugu,
+
+ **2021**
+- Paladugu,
+  
+ **2020**
+- Paladugu,
+  
+# Clinical Trial Optimization
+**2023**
+- Paladugu,
+**2022**
+- Paladugu,
+
+ **2021**
+- Paladugu,
+  
+ **2020**
+- Paladugu,
+  
+# Genomic Editing and Design
+**2023**
+- Paladugu,
+**2022**
+- Paladugu,
+
+ **2021**
+- Paladugu,
+  
+ **2020**
+- Paladugu,
+  
+# Drug Side Effects Prediction
+**2023**
+- Paladugu,
+**2022**
+- Paladugu,
+
+ **2021**
+- Paladugu,
+  
+ **2020**
+- Paladugu,
+  
 # Ethical and Regulatory Considerations
  ## Ethical GAI Consideration
- **2023**
+**2023**
 - Paladugu,
 **2022**
 - Paladugu,
