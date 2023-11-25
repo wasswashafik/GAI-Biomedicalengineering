@@ -14,7 +14,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
   * [Drug Discovery Development](#drug-discovery-development)
     * [Biomedical Imaging](#biomedical-imaging)
     * [Personalized Medicine](#personalized-medicine)
-    * [Fruit Detection](#fruit-detection)
+    * [Disease Modeling and Prediction](#disease-modeling-and-prediction)
     * [Aquaculture](#aquaculture)
     * [Animal Farming](#animal-farming)
   * [Plant Phenotyping](#plant-phenotyping)
