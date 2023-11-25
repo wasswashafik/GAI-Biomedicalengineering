@@ -169,15 +169,30 @@ Please consider cite our paper if you find this repo is helpful. The link will b
   
 # Genomic Editing and Design
 **2023**
-- Paladugu,
+- Shanehsazzadeh, A., Bachas, S., McPartlon, M., Kasun, G., Sutton, J. M., Steiger, A. K., ... & Meier, J. (2023). Unlocking de novo antibody design with generative artificial intelligence. bioRxiv, 2023-01. [[paper]](https://www.biorxiv.org/content/10.1101/2023.01.08.523187v3.abstract).
+- Cui, H., Wang, C., Maan, H., Pang, K., Luo, F., & Wang, B. (2023). scGPT: Towards building a foundation model for Single-Cell multi-omics using generative AI. bioRxiv, 2023-04. [[paper]](https://www.biorxiv.org/content/10.1101/2023.04.30.538439v2.abstract).
+- Capponi, S., & Daniels, K. G. (2023). Harnessing the power of artificial intelligence to advance cell therapy. Immunological Reviews. [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/imr.13236).
+- Hayes, B. J., Chen, C., Powell, O., Dinglasan, E., Villiers, K., Kemper, K. E., & Hickey, L. T. (2023). Advancing artificial intelligence to help feed the world. Nature Biotechnology, 41(9), 1188-1189. [[paper]](https://www.nature.com/articles/s41587-023-01898-2).
+- Rane, N. (2023). Contribution and Challenges of ChatGPT and Similar Generative Artificial Intelligence in Biochemistry, Genetics and Molecular Biology. Genetics and Molecular Biology (October 16, 2023). [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4603219).
+  
 **2022**
-- Paladugu,
+- Hasanzadeh, A., Hamblin, M. R., Kiani, J., Noori, H., Hardie, J. M., Karimi, M., & Shafiee, H. (2022). Could artificial intelligence revolutionize the development of nanovectors for gene therapy and mRNA vaccines?. Nano Today, 47, 101665. [[paper]](https://www.sciencedirect.com/science/article/pii/S1748013222002936).
+- Urán Landaburu, L., Didier Garnham, M., & Agüero, F. (2023). Targeting trypanosomes: how chemogenomics and artificial intelligence can guide drug discovery. Biochemical Society Transactions, 51(1), 195-206. [[paper]](https://portlandpress.com/biochemsoctrans/article-abstract/51/1/195/232416/Targeting-trypanosomes-how-chemogenomics-and).
+- Shmatko, A., Ghaffari Laleh, N., Gerstung, M., & Kather, J. N. (2022). Artificial intelligence in histopathology: enhancing cancer research and clinical oncology. Nature cancer, 3(9), 1026-1038. [[paper]](https://www.nature.com/articles/s43018-022-00436-4).
+- Xu, Y., Zhang, X., Li, H., Zheng, H., Zhang, J., Olsen, M. S., ... & Qian, Q. (2022). Smart breeding driven by big data, artificial intelligence, and integrated genomic-enviromic prediction. Molecular Plant, 15(11), 1664-1695. [[paper]](https://www.cell.com/molecular-plant/pdf/S1674-2052(22)00295-7.pdf).
+- Cheng, F., & Tuncbag, N. (2022). Editorial overview: Artificial intelligence (AI) methodologies in structural biology. Current Opinion in Structural Biology, 74, 102387. [[paper]](https://www.sciencedirect.com/science/article/pii/S0959440X22000665).
+- Hazra, D., Kim, M. R., & Byun, Y. C. (2022). Generative adversarial networks for creating synthetic nucleic acid sequences of cat genome. International Journal of Molecular Sciences, 23(7), 3701. [[paper]](https://www.mdpi.com/1422-0067/23/7/3701).
+- Bhardwaj, A., Kishore, S., & Pandey, D. K. (2022). Artificial intelligence in biological sciences. Life, 12(9), 1430. [[paper]](https://www.mdpi.com/2075-1729/12/9/1430).
 
  **2021**
-- Paladugu,
+- Grisoni, F., Huisman, B. J., Button, A. L., Moret, M., Atz, K., Merk, D., & Schneider, G. (2021). Combining generative artificial intelligence and on-chip synthesis for de novo drug design. Science Advances, 7(24), eabg3338. [[paper]](https://www.science.org/doi/full/10.1126/sciadv.abg3338).
+- Beloff, L. (2021). Novel images? Artistic image creation with science and technology protocols: GANs and CRISPR-Cas9. Proceedings of Polititcs of the machines-Rogue Research 2021 3, 253-260. [[paper]](https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/POM2021.33).
   
  **2020**
-- Paladugu,
+- Teng, S. Y., Yew, G. Y., Sukačová, K., Show, P. L., Máša, V., & Chang, J. S. (2020). Microalgae with artificial intelligence: A digitalized perspective on genetics, systems and products. Biotechnology advances, 44, 107631. [[paper]](https://www.sciencedirect.com/science/article/pii/S0734975020301336).
+- Zhavoronkov, A., Zagribelnyy, B., Zhebrak, A., Aladinskiy, V., Terentiev, V., Vanhaelen, Q., ... & Ivanenkov, Y. (2020). Potential non-covalent SARS-CoV-2 3C-like protease inhibitors designed using generative deep learning approaches and reviewed by human medicinal chemist in virtual reality. [[paper]](https://europepmc.org/article/ppr/ppr171356).
+- Lin, E., Lin, C. H., & Lane, H. Y. (2020). Relevant applications of generative adversarial networks in drug design and discovery: molecular de novo design, dimensionality reduction, and de novo peptide and protein design. Molecules, 25(14), 3250. [[paper]](https://www.mdpi.com/1420-3049/25/14/3250).
+- Bullock, J., Luccioni, A., Pham, K. H., Lam, C. S. N., & Luengo-Oroz, M. (2020). Mapping the landscape of artificial intelligence applications against COVID-19. Journal of Artificial Intelligence Research, 69, 807-845. [[paper]](https://www.jair.org/index.php/jair/article/view/12162).
   
 # Drug Side Effects Prediction
 **2023**
