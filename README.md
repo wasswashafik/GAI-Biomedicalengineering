@@ -61,6 +61,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Bian, Y., & Xie, X. Q. (2021). Generative chemistry: drug discovery with deep learning generative models. Journal of Molecular Modeling, 27, 1-18. [[paper]](https://link.springer.com/article/10.1007/s00894-021-04674-8).
 - Grisoni, F., Huisman, B. J., Button, A. L., Moret, M., Atz, K., Merk, D., & Schneider, G. (2021). Combining generative artificial intelligence and on-chip synthesis for de novo drug design. Science Advances, 7(24), eabg3338. [[paper]](https://www.science.org/doi/full/10.1126/sciadv.abg3338).
 - Tang, B., Ewalt, J., & Ng, H. L. (2021). Generative AI models for drug discovery. In Biophysical and Computational Tools in Drug Discovery (pp. 221-243). Cham: Springer International Publishing. [[paper]](https://link.springer.com/chapter/10.1007/7355_2021_124).
+- Jiménez-Luna, J., Grisoni, F., Weskamp, N., & Schneider, G. (2021). Artificial intelligence in drug discovery: recent advances and future perspectives. Expert opinion on drug discovery, 16(9), 949-959. [[paper]](https://www.tandfonline.com/doi/full/10.1080/17460441.2021.1909567).
   
  **2020**
 - Paladugu,
