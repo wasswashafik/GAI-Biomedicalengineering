@@ -8,22 +8,22 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 # Fresh Papers
 
 
-# Contents
+## Contents
 
-## Applications of GANs in Biomedical Engineering
-Precision Agriculture
-Plant Health
-Weeds
-Fruit Detection
-Aquaculture
-Animal Farming
-Plant Phenotyping
-Postharvest Quality Assessment
+* [Applications of GANs in Agriculture](#applications-of-gans-in-agriculture)
+  * [Precision Agriculture](#precision-agriculture)
+    * [Plant Health](#plant-health)
+    * [Weeds](#weeds)
+    * [Fruit Detection](#fruit-detection)
+    * [Aquaculture](#aquaculture)
+    * [Animal Farming](#animal-farming)
+  * [Plant Phenotyping](#plant-phenotyping)
+  * [Postharvest Quality Assessment](#postharvest-quality-assessment)
+* [GAN Achitectures](#gan-achitectures)
+* [GAN Review Papers](#gan-review-papers)
+* [GAN Implementations](#gan-implementations)
+* [Applications of Diffusion Models in Agriculture](#applications-of-diffusion-models-in-agriculture)
 
-## GAN Achitectures
-d
-## GAN Review Papers
-d
-## GAN Implementations
-sd
-## Applications of Diffusion Models in Biomedical Engineering
+# Applications of GANs in Agriculture
+## Precision Agriculture
+### Plant Health
