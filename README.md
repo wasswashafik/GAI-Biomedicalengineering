@@ -281,10 +281,17 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 ## Bias and Generalization Issues
  **2023**
-- Paladugu,
+- Wang, Q., Feng, Y., Huang, J., Lv, Y., Xie, Z., & Gao, X. (2023). Large-scale generative simulation artificial intelligence: The next hotspot. The Innovation, 4(6). [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10616373/).
+- Zhang, G., Jin, Q., McInerney, D. J., Chen, Y., Wang, F., Cole, C. L., ... & Peng, Y. (2023). Leveraging Generative AI for Clinical Evidence Summarization Needs to Achieve Trustworthiness. arXiv preprint arXiv:2311.11211. [[paper]](https://arxiv.org/abs/2311.11211).
+- Eysenbach, G. (2023). The role of ChatGPT, generative language models, and artificial intelligence in medical education: a conversation with ChatGPT and a call for papers. JMIR Medical Education, 9(1), e46885. [[paper]](https://mededu.jmir.org/2023/1/e46885/).
+- Lan, G., Xiao, S., Yang, J., Wen, J., & Xi, M. (2023). Generative AI-based Data Completeness Augmentation Algorithm for Data-driven Smart Healthcare. IEEE Journal of Biomedical and Health Informatics. [[paper]](https://ieeexplore.ieee.org/abstract/document/10301488).
+- Tan, T. F., Thirunavukarasu, A. J., Campbell, J. P., Keane, P. A., Pasquale, L. R., Abramoff, M. D., ... & Ting, D. S. W. (2023). Generative Artificial Intelligence through ChatGPT and Other Large Language Models in Ophthalmology: Clinical Applications and Challenges. Ophthalmology Science, 3(4), 100394. [[paper]](https://www.sciencedirect.com/science/article/pii/S2666914523001264).
+- Ray, P. P. (2023). ChatGPT: A comprehensive review on background, applications, key challenges, bias, ethics, limitations and future scope. Internet of Things and Cyber-Physical Systems. [[paper]](https://www.sciencedirect.com/science/article/pii/S266734522300024X).
+- Heinz, M. V., Bhattacharya, S., Trudeau, B., Quist, R., Song, S. H., Lee, C. M., & Jacobson, N. C. (2023). Testing domain knowledge and risk of bias of a large-scale general artificial intelligence model in mental health. Digital Health, 9, 20552076231170499. [[paper]](https://journals.sagepub.com/doi/full/10.1177/20552076231170499).
+- Xie, Q., Schenck, E. J., Yang, H. S., Chen, Y., Peng, Y., & Wang, F. (2023). Faithful ai in medicine: A systematic review with large language models and beyond. medRxiv. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10312867/).
 
 **2022**
-- Paladugu,
+- Liang, W., Tadesse, G. A., Ho, D., Fei-Fei, L., Zaharia, M., Zhang, C., & Zou, J. (2022). Advances, challenges and opportunities in creating data for trustworthy AI. Nature Machine Intelligence, 4(8), 669-677. [[paper]](https://www.nature.com/articles/s42256-022-00516-1).
   
 **2021**
 - Paladugu,
