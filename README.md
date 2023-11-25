@@ -43,7 +43,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 **2023**
 - Esmaeili, M., Toosi, A., Roshanpoor, A., Changizi, V., Ghazisaeedi, M., Rahmim, A., & Sabokrou, M. (2023). Generative Adversarial Networks for Anomaly Detection in Biomedical Imaging: A Study on Seven Medical Image Datasets. IEEE Access, 11, 17906-17921. [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2023&q=Generative+Adversarial+Networks+for+Anomaly+Detection+in+Biomedical+Imaging%3A+A+Study+on+Seven+Medical+Image+Datasets&btnG=) [[paper]](https://ieeexplore.ieee.org/abstract/document/10043696)
-
+- Huang, J., Neill, L., Wittbrodt, M., Melnick, D., Klug, M., Thompson, M., ... & Etemadi, M. (2023). Generative Artificial Intelligence for Chest Radiograph Interpretation in the Emergency Department. JAMA network open, 6(10), e2336100-e2336100. [[Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C25&q=Generative+Artificial+Intelligence+for+Chest+Radiograph+Interpretation+in+the+Emergency+Department&btnG=) [[Paper]](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2810195)
 
 
 
