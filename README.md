@@ -6,6 +6,12 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 
 
 # Fresh Papers
+- Sohail, S. S. (2023). A promising start and not a panacea: ChatGPT's early impact and potential in medical science and biomedical engineering research. Annals of Biomedical Engineering, 1-5.
+- Mannuru, N. R., Shahriar, S., Teel, Z. A., Wang, T., Lund, B. D., Tijani, S., ... & Vaidya, P. (2023). Artificial intelligence in developing countries: The impact of generative artificial intelligence (AI) technologies for development. Information Development, 02666669231200628.
+- Chen, T., Hong, L., Yudistyra, V., Vincoff, S., & Chatterjee, P. (2023). Generative design of therapeutics that bind and modulate protein states. Current Opinion in Biomedical Engineering, 100496.
+- Huang, J., Neill, L., Wittbrodt, M., Melnick, D., Klug, M., Thompson, M., ... & Etemadi, M. (2023). Generative Artificial Intelligence for Chest Radiograph Interpretation in the Emergency Department. JAMA network open, 6(10), e2336100-e2336100.
+- Jain, P., & Gupta, S. (2023). Blood flow prediction in multi-exposure speckle contrast imaging using conditional generative adversarial network. Cureus, 15(4).
+- Cheng, K., Li, Z., He, Y., Guo, Q., Lu, Y., Gu, S., & Wu, H. (2023). Potential use of artificial intelligence in infectious disease: take ChatGPT as an example. Annals of Biomedical Engineering, 1-6.
 
 
 ## Contents
