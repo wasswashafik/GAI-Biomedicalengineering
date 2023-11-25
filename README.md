@@ -272,7 +272,11 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Thiagarajan, J. J., Thopalli, K., Rajan, D., & Turaga, P. (2022). Training calibration-based counterfactual explainers for deep learning models in medical image analysis. Scientific reports, 12(1), 597. [[paper]](https://www.nature.com/articles/s41598-021-04529-5).
   
 **2021**
-- Paladugu,
+- Chakrobartty, S., & El-Gayar, O. (2021). Explainable artificial intelligence in the medical domain: a systematic review. [[paper]](https://scholar.dsu.edu/bispapers/272/).
+- Gohel, P., Singh, P., & Mohanty, M. (2021). Explainable AI: current status and future directions. arXiv preprint arXiv:2107.07045. [[paper]](https://arxiv.org/abs/2107.07045).
+- Moradi, M., & Samwald, M. (2021). Explaining black-box models for biomedical text classification. IEEE journal of biomedical and health informatics, 25(8), 3112-3120. [[paper]](https://ieeexplore.ieee.org/abstract/document/9345952).
+- Sarp, S., Kuzlu, M., Wilson, E., Cali, U., & Guler, O. (2021). The enlightening role of explainable artificial intelligence in chronic wound classification. Electronics, 10(12), 1406. [[paper]](https://www.mdpi.com/2079-9292/10/12/1406).
+- Fiorani, S. (2021). Explainable artificial intelligence: review and applications in medical field. [[paper]](https://www.politesi.polimi.it/handle/10589/179059).
   
 **2020**
 - Paladugu,
