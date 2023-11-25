@@ -55,9 +55,11 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Paladugu,
 **2022**
 - Martinelli, D. D. (2022). Generative machine learning for de novo drug discovery: A systematic review. Computers in Biology and Medicine, 145, 105403. [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482522001950).
+- Zeng, X., Wang, F., Luo, Y., Kang, S. G., Tang, J., Lightstone, F. C., ... & Cheng, F. (2022). Deep generative molecular design reshapes drug discovery. Cell Reports Medicine. [[paper]](https://www.sciencedirect.com/science/article/pii/S2666379122003494).
 
  **2021**
 - Bian, Y., & Xie, X. Q. (2021). Generative chemistry: drug discovery with deep learning generative models. Journal of Molecular Modeling, 27, 1-18. [[paper]](https://link.springer.com/article/10.1007/s00894-021-04674-8).
+- Grisoni, F., Huisman, B. J., Button, A. L., Moret, M., Atz, K., Merk, D., & Schneider, G. (2021). Combining generative artificial intelligence and on-chip synthesis for de novo drug design. Science Advances, 7(24), eabg3338. [[paper]](https://www.science.org/doi/full/10.1126/sciadv.abg3338).
   
  **2020**
 - Paladugu,
