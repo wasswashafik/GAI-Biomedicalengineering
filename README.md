@@ -68,4 +68,4 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Bieder, F., Wolleb, J., Durrer, A., Sandkuehler, R., & Cattin, P. C. (2023, April). Memory-Efficient 3D Denoising Diffusion Models for Medical Image Processing. In Medical Imaging with Deep Learning. [[paper]](https://openreview.net/forum?id=neXqIGpO-tn).
 - Li, H., Ditzler, G., Roveda, J., & Li, A. (2023). DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal. IEEE Journal of Biomedical and Health Informatics. [[paper]](https://ieeexplore.ieee.org/abstract/document/10018543).
 - Ali, K., Ahmad, A., Ahmad, S., Nisar, K. S., & Ahmad, S. (2023). Peristaltic pumping of MHD flow through a porous channel: biomedical engineering application. Waves in Random and Complex Media, 1-30. [[paper]](https://www.tandfonline.com/doi/abs/10.1080/17455030.2023.2168085).
-
+- Özbey, M., Dalmaz, O., Dar, S. U., Bedel, H. A., Özturk, Ş., Güngör, A., & Çukur, T. (2023). Unsupervised medical image translation with adversarial diffusion models. IEEE Transactions on Medical Imaging. [[paper]](https://ieeexplore.ieee.org/abstract/document/10167641).
