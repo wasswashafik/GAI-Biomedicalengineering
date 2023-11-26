@@ -232,7 +232,11 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Chatterjee, S., Bhattacharya, M., Lee, S. S., & Chakraborty, C. (2023). Can artificial intelligence-strengthened ChatGPT or other large language models transform nucleic acid research?. Molecular Therapy-Nucleic Acids, 33, 205-207. [[paper]](https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(23)00169-5).
   
 **2022**
-- Paladugu,
+- Sezgin, E., Sirrianni, J., & Linwood, S. L. (2022). Operationalizing and implementing pretrained, large artificial intelligence linguistic models in the US health care system: outlook of generative pretrained transformer 3 (GPT-3) as a service model. JMIR medical informatics, 10(2), e32875. [[paper]](https://medinform.jmir.org/2022/2/e32875).
+- Lovejoy, C. A., Arora, A., Buch, V., & Dayan, I. (2022). Key considerations for the use of artificial intelligence in healthcare and clinical research. Future Healthcare Journal, 9(1), 75. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8966801/).
+- Heinen, T., Secchia, S., Reddington, J. P., Zhao, B., Furlong, E. E., & Stegle, O. (2022). ScDALI: modeling allelic heterogeneity in single cells reveals context-specific genetic regulation. Genome biology, 23(1), 1-24. [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02593-8).
+- Van Kolfschooten, H. (2022). EU regulation of artificial intelligence: challenges for patients’ rights. Common Market Law Review, 59(1). [[paper]](https://kluwerlawonline.com/journalarticle/Common+Market+Law+Review/59.1/COLA2022005).
+- Tanwar, N., & Hasija, Y. (2022, January). Deep Learning: A tool in Biomedical Science. In 2022 International Conference for Advancement in Technology (ICONAT) (pp. 1-6). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/9725866).
 
  **2021**
 - Paladugu,
