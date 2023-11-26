@@ -194,7 +194,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Grisoni, F., Huisman, B. J., Button, A. L., Moret, M., Atz, K., Merk, D., & Schneider, G. (2021). Combining generative artificial intelligence and on-chip synthesis for de novo drug design. Science Advances, 7(24), eabg3338. [[paper]](https://www.science.org/doi/full/10.1126/sciadv.abg3338).
 - Beloff, L. (2021). Novel images? Artistic image creation with science and technology protocols: GANs and CRISPR-Cas9. Proceedings of Polititcs of the machines-Rogue Research 2021 3, 253-260. [[paper]](https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/POM2021.33).
   
- **2020**
+**2020**
 - Teng, S. Y., Yew, G. Y., Sukačová, K., Show, P. L., Máša, V., & Chang, J. S. (2020). Microalgae with artificial intelligence: A digitalized perspective on genetics, systems and products. Biotechnology advances, 44, 107631. [[paper]](https://www.sciencedirect.com/science/article/pii/S0734975020301336).
 - Zhavoronkov, A., Zagribelnyy, B., Zhebrak, A., Aladinskiy, V., Terentiev, V., Vanhaelen, Q., ... & Ivanenkov, Y. (2020). Potential non-covalent SARS-CoV-2 3C-like protease inhibitors designed using generative deep learning approaches and reviewed by human medicinal chemist in virtual reality. [[paper]](https://europepmc.org/article/ppr/ppr171356).
 - Lin, E., Lin, C. H., & Lane, H. Y. (2020). Relevant applications of generative adversarial networks in drug design and discovery: molecular de novo design, dimensionality reduction, and de novo peptide and protein design. Molecules, 25(14), 3250. [[paper]](https://www.mdpi.com/1420-3049/25/14/3250).
@@ -229,15 +229,16 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Fowler, M. M. (2022). Bodies of Degeneration: Auguste Rodin and the French Fin de Siècle (Doctoral dissertation, Tulane University, School of Liberal Arts). [[paper]](https://www.proquest.com/openview/1bd46a912511b3ed4377e5ae84d4af2d/1?cbl=18750&diss=y&pq-origsite=gscholar&parentSessionId=AF%2FIk0HmQjiptKEeLT8%2B0LXf0KKg3QNGcqpdEdVM1N0%3D).
 - Oyekunle, A. A. (2022). Improved classifier chain methods based on heuristic optimization techniques for multi-label classification problem (Doctoral dissertation, Universiti Tun Hussein Onn Malaysia). [[paper]](http://eprints.uthm.edu.my/8378/1/24p%20ADELEKE%20ABDULLAHI%20OYEKUNLE.pdf).
 
- **2021**
+**2021**
 - Khan, H., Kushwah, K. K., Singh, S., Urkude, H., Maurya, M. R., & Sadasivuni, K. K. (2021). Smart technologies driven approaches to tackle COVID-19 pandemic: a review. 3 Biotech, 11, 1-22. [[paper]](https://link.springer.com/article/10.1007/s13205-020-02581-y).
 - Kazi, A. B. (2021). Graph Deep Learning for Healthcare Applications (Doctoral dissertation, Technische Universität München). [[paper]](https://mediatum.ub.tum.de/1639387).
   
- **2020**
-- Paladugu,
+**2020**
+- Barbiero, P., Torné, R. V., & Lió, P. (2020). Graph representation forecasting of patient's medical conditions: towards a digital twin. arXiv preprint arXiv:2009.08299. [[paper]](https://arxiv.org/abs/2009.08299).
+- Nayarisseri, A., Khandelwal, R., Madhavi, M., Selvaraj, C., Panwar, U., Sharma, K., ... & Singh, S. K. (2020). Shape-based machine learning models for the potential novel COVID-19 protease inhibitors assisted by molecular dynamics simulation. Current topics in medicinal chemistry, 20(24), 2146-2167. [[paper]](https://www.ingentaconnect.com/content/ben/ctmc/2020/00000020/00000024/art00004).
   
 ## Regulatory Consideration
- **2023**
+**2023**
 - Petrick, N., Chen, W., Delfino, J. G., Gallas, B. D., Kang, Y., Krainak, D., ... & Samala, R. K. (2023). Regulatory considerations for medical imaging AI/ML devices in the United States: concepts and challenges. Journal of Medical Imaging, 10(5), 051804-051804. [[paper]](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-10/issue-5/051804/Regulatory-considerations-for-medical-imaging-AI-ML-devices-in-the/10.1117/1.JMI.10.5.051804.full?SSO=1).
 - Meskó, B. (2023). The Impact of Multimodal Large Language Models on Health Care’s Future. Journal of Medical Internet Research, 25, e52865. [[paper]](https://www.jmir.org/2023/1/e52865/).
 - Pun, F. W., Ozerov, I. V., & Zhavoronkov, A. (2023). AI-powered therapeutic target discovery. Trends in Pharmacological Sciences. [[paper]](https://www.cell.com/trends/pharmacological-sciences/fulltext/S0165-6147(23)00137-2).
@@ -259,7 +260,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Xu, L., Sanders, L., Li, K., & Chow, J. C. (2021). Chatbot for health care and oncology applications using artificial intelligence and machine learning: systematic review. JMIR cancer, 7(4), e27850. [[paper]](https://cancer.jmir.org/2021/4/e27850/).
 - Vlahou, A., Hallinan, D., Apweiler, R., Argiles, A., Beige, J., Benigni, A., ... & Vanholder, R. (2021). Data sharing under the General Data Protection Regulation: time to harmonize law and research ethics?. Hypertension, 77(4), 1029-1035. [[paper]](https://www.ahajournals.org/doi/full/10.1161/HYPERTENSIONAHA.120.16340). 
   
- **2020**
+**2020**
 - Han, C., Rundo, L., Murao, K., Nemoto, T., & Nakayama, H. (2020). Bridging the gap between AI and healthcare sides: towards developing clinically relevant AI-powered diagnosis systems. In Artificial Intelligence Applications and Innovations: 16th IFIP WG 12.5 International Conference, AIAI 2020, Neos Marmaras, Greece, June 5–7, 2020, Proceedings, Part II 16 (pp. 320-333). Springer International Publishing. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-49186-4_27).
 - Zhou, J., Chen, F., Berry, A., Reed, M., Zhang, S., & Savage, S. (2020, December). A survey on ethical principles of AI and implementations. In 2020 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 3010-3017). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/9308437).
 - Jian, W., Hui, D., & Lau, D. (2020). Nanoengineering in biomedicine: current development and future perspectives. Nanotechnology Reviews, 9(1), 700-715. [[paper]](https://www.degruyter.com/document/doi/10.1515/ntrev-2020-0053/html).
@@ -284,7 +285,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Pereira, T., Abbasi, M., Oliveira, R. I., Guedes, R. A., Salvador, J. A., & Arrais, J. P. (2022). Deep generative model for therapeutic targets using transcriptomic disease-associated data—USP7 case study. Briefings in Bioinformatics, 23(4), bbac270. [[paper]](https://academic.oup.com/bib/article-abstract/23/4/bbac270/6628785).
 - Mei, Y., Guo, P., & Patel, V. M. (2022). Escaping data scarcity for high-resolution heterogeneous face hallucination. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 18676-18686). [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Mei_Escaping_Data_Scarcity_for_High-Resolution_Heterogeneous_Face_Hallucination_CVPR_2022_paper.html).
 
- **2021**
+**2021**
 - Rasheed, K., Qadir, J., O’Brien, T. J., Kuhlmann, L., & Razi, A. (2021). A generative model to synthesize EEG data for epileptic seizure prediction. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 29, 2322-2332. [[paper]](https://ieeexplore.ieee.org/abstract/document/9599660).
 - Anaam, A., Bu-Omer, H. M., & Gofuku, A. (2021). Studying the applicability of generative adversarial networks on HEp-2 cell image augmentation. IEEE Access, 9, 98048-98059. [[paper]](https://ieeexplore.ieee.org/abstract/document/9475986).
 - Devecioglu, O. C., Malik, J., Ince, T., Kiranyaz, S., Atalay, E., & Gabbouj, M. (2021). Real-time glaucoma detection from digital fundus images using self-onns. IEEE Access, 9, 140031-140041. [[paper]](https://ieeexplore.ieee.org/abstract/document/9559961).
