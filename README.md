@@ -235,9 +235,22 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 # Generative Artificial Intelligence Challenges and Limitations
 ## Data Scarcity and Quality
 **2023**
-- Paladugu,
+- Ali, H., Grönlund, C., & Shah, Z. (2023). Leveraging GANs for data scarcity of COVID-19: Beyond the hype. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 659-667). [[paper]](https://openaccess.thecvf.com/content/CVPR2023W/GCV/html/Ali_Leveraging_GANs_for_Data_Scarcity_of_COVID-19_Beyond_the_Hype_CVPRW_2023_paper.html).
+- Lenatti, M., Paglialonga, A., Orani, V., Ferretti, M., & Mongelli, M. (2023). Characterization of Synthetic Health Data Using Rule-Based Artificial Intelligence Models. IEEE Journal of Biomedical and Health Informatics. [[paper]](https://ieeexplore.ieee.org/abstract/document/10016704).
+- Baniya, A. A., Eklund, P. W., & Aryal, S. (2023). Current State, Data Requirements and Generative AI Solution for Learning-based Computer Vision in Horticulture. [[paper]](https://www.preprints.org/manuscript/202306.1738/v1).
+- Ray, T. R., Kellogg, R. T., Fargen, K. M., Hui, F., & Vargas, J. (2023). The perils and promises of generative artificial intelligence in neurointerventional surgery. Journal of NeuroInterventional Surgery. [[paper]](https://jnis.bmj.com/content/early/2023/07/11/jnis-2023-020353.abstract).
+- Xu, Z., Chen, Y., & Hu, B. (2023, June). Improving biomedical entity linking with cross-entity interaction. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 37, No. 11, pp. 13869-13877). [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26624).
+- Myong, Y., Yoon, D., Kim, B. S., Kim, Y. G., Sim, Y., Lee, S., ... & Kim, S. (2023). Evaluating diagnostic content of AI-generated chest radiography: A multi-center visual Turing test. Plos one, 18(4), e0279349. [[paper]](https://ieeexplore.ieee.org/abstract/document/10283869).
+- Buggineni, V. (2023). Utilizing Synthetic Data Generation Techniques to Improve the Availability of Data in Discrete Manufacturing for AI Applications: A Review and Framework. [[paper]](https://www.proquest.com/openview/d10a3ea2e6e196c888665626d816981d/1?pq-origsite=gscholar&cbl=18750&diss=y).
+- Giuffrè, M., & Shung, D. L. (2023). Harnessing the power of synthetic data in healthcare: innovation, application, and privacy. NPJ Digital Medicine, 6(1), 186. [[paper]](https://www.nature.com/articles/s41746-023-00927-3).
+  
 **2022**
-- Paladugu,
+- Wójcik, M. A. (2022, July). Foundation Models in Healthcare: Opportunities, Biases and Regulatory Prospects in Europe. In International Conference on Electronic Government and the Information Systems Perspective (pp. 32-46). Cham: Springer International Publishing. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-12673-4_3).
+- Waqas, N., Safie, S. I., Kadir, K. A., Khan, S., & Khel, M. H. K. (2022). DEEPFAKE image synthesis for data augmentation. IEEE Access, 10, 80847-80857. [[paper]](https://ieeexplore.ieee.org/abstract/document/9839427).
+- Ubale Kiru, M., Belaton, B., Chew, X., Almotairi, K. H., Hussein, A. M., & Aminu, M. (2022). Comparative analysis of some selected generative adversarial network models for image augmentation: a case study of COVID-19 x-ray and CT images. Journal of Intelligent & Fuzzy Systems, (Preprint), 1-20. [[paper]](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs220017).
+- Bansal, M. A., Sharma, D. R., & Kathuria, D. M. (2022). A systematic review on data scarcity problem in deep learning: solution and applications. ACM Computing Surveys (CSUR), 54(10s), 1-29. [[paper]](https://dl.acm.org/doi/abs/10.1145/3502287).
+- Pereira, T., Abbasi, M., Oliveira, R. I., Guedes, R. A., Salvador, J. A., & Arrais, J. P. (2022). Deep generative model for therapeutic targets using transcriptomic disease-associated data—USP7 case study. Briefings in Bioinformatics, 23(4), bbac270. [[paper]](https://academic.oup.com/bib/article-abstract/23/4/bbac270/6628785).
+- Mei, Y., Guo, P., & Patel, V. M. (2022). Escaping data scarcity for high-resolution heterogeneous face hallucination. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 18676-18686). [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Mei_Escaping_Data_Scarcity_for_High-Resolution_Heterogeneous_Face_Hallucination_CVPR_2022_paper.html).
 
  **2021**
 - Paladugu,
