@@ -253,7 +253,13 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Mei, Y., Guo, P., & Patel, V. M. (2022). Escaping data scarcity for high-resolution heterogeneous face hallucination. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 18676-18686). [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Mei_Escaping_Data_Scarcity_for_High-Resolution_Heterogeneous_Face_Hallucination_CVPR_2022_paper.html).
 
  **2021**
-- Paladugu,
+- Rasheed, K., Qadir, J., O’Brien, T. J., Kuhlmann, L., & Razi, A. (2021). A generative model to synthesize EEG data for epileptic seizure prediction. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 29, 2322-2332. [[paper]](https://ieeexplore.ieee.org/abstract/document/9599660).
+- Anaam, A., Bu-Omer, H. M., & Gofuku, A. (2021). Studying the applicability of generative adversarial networks on HEp-2 cell image augmentation. IEEE Access, 9, 98048-98059. [[paper]](https://ieeexplore.ieee.org/abstract/document/9475986).
+- Devecioglu, O. C., Malik, J., Ince, T., Kiranyaz, S., Atalay, E., & Gabbouj, M. (2021). Real-time glaucoma detection from digital fundus images using self-onns. IEEE Access, 9, 140031-140041. [[paper]](https://ieeexplore.ieee.org/abstract/document/9559961).
+- Shin, H., Ahn, Y., Tae, S., Gil, H., Song, M., & Lee, S. (2021). Enhancement of multi-class structural defect recognition using generative adversarial network. Sustainability, 13(22), 12682. [[paper]](https://www.mdpi.com/2071-1050/13/22/12682).
+- Abdelmotaal, H., Abdou, A. A., Omar, A. F., El-Sebaity, D. M., & Abdelazeem, K. (2021). Pix2pix conditional generative adversarial networks for scheimpflug camera color-coded corneal tomography image generation. Translational Vision Science & Technology, 10(7), 21-21. [[paper]](https://tvst.arvojournals.org/article.aspx?articleid=2772711).
+- Candemir, S., Nguyen, X. V., Folio, L. R., & Prevedello, L. M. (2021). Training strategies for radiology deep learning models in data-limited scenarios. Radiology: Artificial Intelligence, 3(6), e210014. [[paper]](https://pubs.rsna.org/doi/full/10.1148/ryai.2021210014).
+- Chen, Y. M., Yang, C. H., & Chen, G. C. (2021, January). Using generative adversarial networks for data augmentation in android malware detection. In 2021 IEEE conference on dependable and secure computing (DSC) (pp. 1-8). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/9346277).
 
 ## Regulatory and Ethical Constraints
  **2023**
