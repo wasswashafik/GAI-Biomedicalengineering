@@ -216,7 +216,13 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 # Ethical and Regulatory Considerations
 ## Ethical GAI Consideration
 **2023**
-- Paladugu,
+- Du, L., & Kamenova, K. (2023). China’s New Regulations on Generative AI: Implications for Bioethics. The American Journal of Bioethics, 23(10), 52-54. [[paper]](https://www.tandfonline.com/doi/abs/10.1080/15265161.2023.2249854).
+- Klenk, M. (2023). Ethics of Generative AI and Manipulation: A Design-Oriented Research Agenda. Available at SSRN 4478397. [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478397).
+- Pregowska, A., & Perkins, M. Artificial Intelligence in Medical Education Part 1: Typologies and Ethical Approaches. Available at SSRN 4576612. [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4576612).
+- Khan, M., & Chaudhry, M. N. (2023). Artificial Intelligence and the Future of Impact Assessment. Available at SSRN 4519498. [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4519498).
+- Xue, J., Wang, Y. C., Wei, C., Liu, X., Woo, J., & Kuo, C. C. J. (2023). Bias and Fairness in Chatbots: An Overview. arXiv preprint arXiv:2309.08836. [[paper]](https://arxiv.org/abs/2309.08836).
+- Chen, J., Yi, C., Okegbile, S. D., & Cai, J. (2023). Networking Technologies for Enabling Human Digital Twin in Personalized Healthcare Applications: A Comprehensive Survey. arXiv preprint arXiv:2301.03930. [[paper]](https://arxiv.org/abs/2301.03930).
+  
 **2022**
 - Paladugu,
 
