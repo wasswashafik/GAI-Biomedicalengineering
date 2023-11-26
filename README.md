@@ -239,10 +239,14 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Tanwar, N., & Hasija, Y. (2022, January). Deep Learning: A tool in Biomedical Science. In 2022 International Conference for Advancement in Technology (ICONAT) (pp. 1-6). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/9725866).
 
  **2021**
-- Paladugu,
+- Harrison Jr, J. H., Gilbertson, J. R., Hanna, M. G., Olson, N. H., Seheult, J. N., Sorace, J. M., & Stram, M. N. (2021). Introduction to artificial intelligence and machine learning for pathology. Archives of pathology & laboratory medicine, 145(10), 1228-1254. [[paper]](https://meridian.allenpress.com/aplm/article/145/10/1228/451554/Introduction-to-Artificial-Intelligence-and).
+- Xu, L., Sanders, L., Li, K., & Chow, J. C. (2021). Chatbot for health care and oncology applications using artificial intelligence and machine learning: systematic review. JMIR cancer, 7(4), e27850. [[paper]](https://cancer.jmir.org/2021/4/e27850/).
+- Vlahou, A., Hallinan, D., Apweiler, R., Argiles, A., Beige, J., Benigni, A., ... & Vanholder, R. (2021). Data sharing under the General Data Protection Regulation: time to harmonize law and research ethics?. Hypertension, 77(4), 1029-1035. [[paper]](https://www.ahajournals.org/doi/full/10.1161/HYPERTENSIONAHA.120.16340). 
   
  **2020**
-- Paladugu,
+- Han, C., Rundo, L., Murao, K., Nemoto, T., & Nakayama, H. (2020). Bridging the gap between AI and healthcare sides: towards developing clinically relevant AI-powered diagnosis systems. In Artificial Intelligence Applications and Innovations: 16th IFIP WG 12.5 International Conference, AIAI 2020, Neos Marmaras, Greece, June 5–7, 2020, Proceedings, Part II 16 (pp. 320-333). Springer International Publishing. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-49186-4_27).
+- Zhou, J., Chen, F., Berry, A., Reed, M., Zhang, S., & Savage, S. (2020, December). A survey on ethical principles of AI and implementations. In 2020 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 3010-3017). IEEE. [[paper]](https://ieeexplore.ieee.org/abstract/document/9308437).
+- Jian, W., Hui, D., & Lau, D. (2020). Nanoengineering in biomedicine: current development and future perspectives. Nanotechnology Reviews, 9(1), 700-715. [[paper]](https://www.degruyter.com/document/doi/10.1515/ntrev-2020-0053/html).
 
 # Generative Artificial Intelligence Challenges and Limitations
 ## Data Scarcity and Quality
