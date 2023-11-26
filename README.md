@@ -52,7 +52,13 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 # Application of GAI in Biomedical Engineering
 ## Drug Discovery Development
 **2023**
-- Paladugu,
+- Bordukova, M., Makarov, N., Rodriguez-Esteban, R., Schmich, F., & Menden, M. P. (2023). Generative artificial intelligence empowers digital twins in drug discovery and clinical trials. Expert Opinion on Drug Discovery, 1-10. [[paper]](https://www.tandfonline.com/doi/full/10.1080/17460441.2023.2273839).
+- Qureshi, R., Irfan, M., Gondal, T. M., Khan, S., Wu, J., Hadi, M. U., ... & Alam, T. (2023). AI in Drug Discovery and its Clinical Relevance. Heliyon. [[paper]](https://www.cell.com/heliyon/pdf/S2405-8440(23)04783-7.pdf).
+- Yoo, J., Kim, T. Y., Joung, I., & Song, S. O. (2023). Industrializing AI/ML during the end-to-end drug discovery process. Current Opinion in Structural Biology, 79, 102528. [[paper]](https://www.sciencedirect.com/science/article/pii/S0959440X23000027).
+- Lu, M., Yin, J., Zhu, Q., Lin, G., Mou, M., Liu, F., ... & Zhu, F. (2023). Artificial intelligence in pharmaceutical sciences. Engineering. [[paper]](https://www.sciencedirect.com/science/article/pii/S2095809923001649).
+- Savage, N. (2023). Drug discovery companies are customizing ChatGPT: here’s how. Nature Biotechnology. [[paper]](https://www.nature.com/articles/s41587-023-01788-7).
+- Mao, J., Wang, J., Zeb, A., Cho, K. H., Jin, H., Kim, J., ... & No, K. T. (2023). Transformer-Based Molecular Generative Model for Antiviral Drug Design. Journal of Chemical Information and Modeling. [[paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00536).
+  
 **2022**
 - Martinelli, D. D. (2022). Generative machine learning for de novo drug discovery: A systematic review. Computers in Biology and Medicine, 145, 105403. [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482522001950).
 - Zeng, X., Wang, F., Luo, Y., Kang, S. G., Tang, J., Lightstone, F. C., ... & Cheng, F. (2022). Deep generative molecular design reshapes drug discovery. Cell Reports Medicine. [[paper]](https://www.sciencedirect.com/science/article/pii/S2666379122003494).
