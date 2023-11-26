@@ -261,10 +261,24 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Qayyum, A., Butt, M. A., Ali, H., Usman, M., Halabi, O., Al-Fuqaha, A., ... & Qadir, J. (2022). Secure and trustworthy artificial intelligence-extended reality (AI-XR) for metaverses. ACM Computing Surveys. [[paper]](https://dl.acm.org/doi/abs/10.1145/3614426).
   
 **2021**
-- Paladugu,
+- Murdoch, B. (2021). Privacy and artificial intelligence: challenges for protecting health information in a new era. BMC Medical Ethics, 22(1), 1-5. [[paper]](https://content.iospress.com/articles/cancer-biomarkers/cbm210301).
+- Pereira, T., Morgado, J., Silva, F., Pelter, M. M., Dias, V. R., Barros, R., ... & Oliveira, H. P. (2021, June). Sharing biomedical data: Strengthening ai development in healthcare. In Healthcare (Vol. 9, No. 7, p. 827). MDPI. [[paper]](https://www.mdpi.com/2227-9032/9/7/827).
+- Dankwa-Mullan, I., Scheufele, E. L., Matheny, M. E., Quintana, Y., Chapman, W. W., Jackson, G., & South, B. R. (2021). A proposed framework on integrating health equity and racial justice into the artificial intelligence development lifecycle. Journal of Health Care for the Poor and Underserved, 32(2), 300-317. [[paper]](https://muse.jhu.edu/pub/1/article/789672/summary).
+- Weissler, E. H., Naumann, T., Andersson, T., Ranganath, R., Elemento, O., Luo, Y., ... & Ghassemi, M. (2021). The role of machine learning in clinical research: transforming the future of evidence generation. Trials, 22(1), 1-15. [[paper]](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05489-x).
+- Elemento, O., Leslie, C., Lundin, J., & Tourassi, G. (2021). Artificial intelligence in cancer research, diagnosis and therapy. Nature Reviews Cancer, 21(12), 747-752. [[paper]](https://www.nature.com/articles/s41568-021-00399-1).
+- Martinez-Martin, N., Luo, Z., Kaushal, A., Adeli, E., Haque, A., Kelly, S. S., ... & Milstein, A. (2021). Ethical issues in using ambient intelligence in health-care settings. The lancet digital health, 3(2), e115-e123. [[paper]](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30275-2/fulltext).
+- Han, C., Rundo, L., Murao, K., Noguchi, T., Shimahara, Y., Milacski, Z. Á., ... & Satoh, S. I. (2021). MADGAN: Unsupervised medical anomaly detection GAN using multiple adjacent brain MRI slice reconstruction. BMC bioinformatics, 22(2), 1-20. [[paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03936-1).
+- Caudai, C., Galizia, A., Geraci, F., Le Pera, L., Morea, V., Salerno, E., ... & Colombo, T. (2021). AI applications in functional genomics. Computational and Structural Biotechnology Journal, 19, 5762-5790. [[paper]](https://www.sciencedirect.com/science/article/pii/S2001037021004311).
+- Dwivedi, Y. K., Hughes, L., Ismagilova, E., Aarts, G., Coombs, C., Crick, T., ... & Williams, M. D. (2021). Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy. International Journal of Information Management, 57, 101994. [[paper]](https://www.sciencedirect.com/science/article/pii/S026840121930917X).
+- Ziller, A., Usynin, D., Braren, R., Makowski, M., Rueckert, D., & Kaissis, G. (2021). Medical imaging deep learning with differential privacy. Scientific Reports, 11(1), 13524. [[paper]](https://www.nature.com/articles/s41598-021-93030-0).
   
 **2020**
-- Paladugu,
+- Parasa, S., Wallace, M., Bagci, U., Antonino, M., Berzin, T., Byrne, M., ... & Sharma, P. (2020). Proceedings from the first global artificial intelligence in gastroenterology and endoscopy summit. Gastrointestinal endoscopy, 92(4), 938-945. [[paper]](https://www.sciencedirect.com/science/article/pii/S0016510720341985).
+- Ho, A. (2020). Are we ready for artificial intelligence health monitoring in elder care?. BMC geriatrics, 20, 1-7. [[paper]](https://link.springer.com/article/10.1186/s12877-020-01764-9).
+- He, M., Li, Z., Liu, C., Shi, D., & Tan, Z. (2020). Deployment of artificial intelligence in real-world practice: opportunity and challenge. The Asia-Pacific Journal of Ophthalmology, 9(4), 299-307. [[paper]](https://journals.lww.com/apjoo/fulltext/2020/08000/deployment_of_artificial_intelligence_in.5.aspx).
+- Suver, C., Thorogood, A., Doerr, M., Wilbanks, J., & Knoppers, B. (2020). Bringing code to data: Do not forget governance. Journal of Medical Internet Research, 22(7), e18087. [[paper]](https://www.jmir.org/2020/7/e18087/).
+- Humphreys, G. (2020). Regulating digital health. World Health Organization. Bulletin of the World Health Organization, 98(4), 235-236. [[paper]](https://www.proquest.com/openview/81a3aec1aa2226c8fc2939131510c3c6/1?cbl=38034&pq-origsite=gscholar&parentSessionId=hg1cAg6h8WJh%2BK0I6%2BS0nrV7hvtZZO%2FxR9HgTwZLw3A%3D).
+- Ho, D. (2020). Artificial intelligence in cancer therapy. Science, 367(6481), 982-983. [[paper]](https://www.science.org/doi/abs/10.1126/science.aaz3023).
 
 ## Model Explainability, Interpretability, and Transparency
  **2023**
