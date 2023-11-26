@@ -65,7 +65,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Deng, J., Yang, Z., Ojima, I., Samaras, D., & Wang, F. (2022). Artificial intelligence in drug discovery: applications and techniques. Briefings in Bioinformatics, 23(1), bbab430. [[paper]](https://academic.oup.com/bib/article-abstract/23/1/bbab430/6420092).
 - Moingeon, P., Kuenemann, M., & Guedj, M. (2022). Artificial intelligence-enhanced drug design and development: Toward a computational precision medicine. Drug discovery today, 27(1), 215-222. [[paper]](https://www.sciencedirect.com/science/article/pii/S1359644621003962).
 
- **2021**
+**2021**
 - Bian, Y., & Xie, X. Q. (2021). Generative chemistry: drug discovery with deep learning generative models. Journal of Molecular Modeling, 27, 1-18. [[paper]](https://link.springer.com/article/10.1007/s00894-021-04674-8).
 - Grisoni, F., Huisman, B. J., Button, A. L., Moret, M., Atz, K., Merk, D., & Schneider, G. (2021). Combining generative artificial intelligence and on-chip synthesis for de novo drug design. Science Advances, 7(24), eabg3338. [[paper]](https://www.science.org/doi/full/10.1126/sciadv.abg3338).
 - Tang, B., Ewalt, J., & Ng, H. L. (2021). Generative AI models for drug discovery. In Biophysical and Computational Tools in Drug Discovery (pp. 221-243). Cham: Springer International Publishing. [[paper]](https://link.springer.com/chapter/10.1007/7355_2021_124).
@@ -92,7 +92,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Gil, H. M., Price, T. W., Chelani, K., Bouillard, J. S. G., Calaminus, S. D., & Stasiuk, G. J. (2021). NIR-quantum dots in biomedical imaging and their future. Iscience, 24(3). [[paper]](https://www.cell.com/iscience/pdf/S2589-0042(21)00157-7.pdf).
 - Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211. [[paper]](https://www.nature.com/articles/s41592-020-01008-z.).
   
- **2020**
+**2020**
 - Mesejo, P., Martos, R., Ibáñez, Ó., Novo, J., & Ortega, M. (2020). A survey on artificial intelligence techniques for biomedical image analysis in skeleton-based forensic human identification. Applied Sciences, 10(14), 4703. [[paper]](https://www.mdpi.com/2076-3417/10/14/4703).
   
 ## Personalized Medicine
@@ -128,10 +128,10 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Sarra, R. R., Dinar, A. M., Mohammed, M. A., Ghani, M. K. A., & Albahar, M. A. (2022). A robust framework for data generative and heart disease prediction based on efficient deep learning models. Diagnostics, 12(12), 2899. [[paper]](https://www.mdpi.com/2075-4418/12/12/2899).
 - Huang, K., Fu, T., Gao, W., Zhao, Y., Roohani, Y., Leskovec, J., ... & Zitnik, M. (2022). Artificial intelligence foundation for therapeutic science. Nature chemical biology, 18(10), 1033-1036. [[paper]](https://www.nature.com/articles/s41589-022-01131-2).
 
- **2021**
+**2021**
 - Frazer, J., Notin, P., Dias, M., Gomez, A., Min, J. K., Brock, K., ... & Marks, D. S. (2021). Disease variant prediction with deep generative models of evolutionary data. Nature, 599(7883), 91-95. [[paper]](https://www.nature.com/articles/s41586-021-04043-8).
   
- **2020**
+**2020**
 - Jamshidi, M., Lalbakhsh, A., Talla, J., Peroutka, Z., Hadjilooei, F., Lalbakhsh, P., ... & Mohyuddin, W. (2020). Artificial intelligence and COVID-19: deep learning approaches for diagnosis and treatment. Ieee Access, 8, 109581-109595. [[paper]](https://ieeexplore.ieee.org/abstract/document/9115663).
 - Bohr, A., & Memarzadeh, K. (2020). The rise of artificial intelligence in healthcare applications. In Artificial Intelligence in healthcare (pp. 25-60). Academic Press. [[paper]](https://www.sciencedirect.com/science/article/pii/B9780128184387000022).
 - Ren, F., & Zhou, Y. (2020). Cgmvqa: A new classification and generative model for medical visual question answering. IEEE Access, 8, 50626-50636. [[paper]](https://ieeexplore.ieee.org/abstract/document/9032109).
@@ -147,11 +147,11 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Choudhury, C., Murugan, N. A., & Priyakumar, U. D. (2022). Structure-based drug repurposing: Traditional and advanced AI/ML-aided methods. Drug Discovery Today, 27(7), 1847-1861. [[paper]](https://www.sciencedirect.com/science/article/pii/S135964462200112X).
 - Cong, Y., & Endo, T. (2022). Multi-omics and artificial intelligence-guided drug repositioning: Prospects, challenges, and lessons learned from COVID-19. OMICS: A Journal of Integrative Biology, 26(7), 361-371. [[paper]](https://www.liebertpub.com/doi/full/10.1089/omi.2022.0068).
 
- **2021**
+**2021**
 - Prasad, K., & Kumar, V. (2021). Artificial intelligence-driven drug repurposing and structural biology for SARS-CoV-2. Current Research in Pharmacology and Drug Discovery, 2, 100042. [[paper]](https://www.sciencedirect.com/science/article/pii/S2590257121000298).
 - Paul, D., Sanap, G., Shenoy, S., Kalyane, D., Kalia, K., & Tekade, R. K. (2021). Artificial intelligence in drug discovery and development. Drug discovery today, 26(1), 80. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/).
   
- **2020**
+**2020**
 - Zhavoronkov, A., Aladinskiy, V., Zhebrak, A., Zagribelnyy, B., Terentiev, V., Bezrukov, D. S., ... & Ivanenkov, Y. (2020). Potential 2019-nCoV 3C-like protease inhibitors designed using generative deep learning approaches. [[paper]](https://chemrxiv.org/engage/chemrxiv/article-details/60c7482bee301ce75fc79817).
   
 # Clinical Trial Optimization
@@ -162,12 +162,12 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 **2022**
 - Zeng, X., Wang, F., Luo, Y., Kang, S. G., Tang, J., Lightstone, F. C., ... & Cheng, F. (2022). Deep generative molecular design reshapes drug discovery. Cell Reports Medicine. [[paper]](https://www.cell.com/cell-reports-medicine/pdf/S2666-3791(22)00349-4.pdf).
 
- **2021**
+**2021**
 - Bung, N., Krishnan, S. R., Bulusu, G., & Roy, A. (2021). De novo design of new chemical entities for SARS-CoV-2 using artificial intelligence. Future medicinal chemistry, 13(06), 575-585.Bung, N., Krishnan, S. R., Bulusu, G., & Roy, A. (2021). De novo design of new chemical entities for SARS-CoV-2 using artificial intelligence. Future medicinal chemistry, 13(06), 575-585. [[paper]](https://www.future-science.com/doi/full/10.4155/fmc-2020-0262).
 - Gupta, A., Müller, A. T., Huisman, B. J., Fuchs, J. A., Schneider, P., & Schneider, G. (2018). Generative recurrent networks for de novo drug design. Molecular informatics, 37(1-2), 1700111. [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700111).
 - Goel, T., Murugan, R., Mirjalili, S., & Chakrabartty, D. K. (2021). Automatic screening of covid-19 using an optimized generative adversarial network. Cognitive computation, 1-16. [[paper]](https://link.springer.com/article/10.1007/s12559-020-09785-7).
   
- **2020**
+**2020**
 - Schneider, P., Walters, W. P., Plowright, A. T., Sieroka, N., Listgarten, J., Goodnow Jr, R. A., ... & Schneider, G. (2020). Rethinking drug design in the artificial intelligence era. Nature Reviews Drug Discovery, 19(5), 353-364. [[paper]](https://www.nature.com/articles/s41573-019-0050-3).
 - Kaushik, A. C., & Raj, U. (2020). AI-driven drug discovery: A boon against COVID-19?. AI Open, 1, 1-4. [[paper]](https://www.sciencedirect.com/science/article/pii/S2666651020300012).
 - Chenthamarakshan, V., Das, P., Hoffman, S., Strobelt, H., Padhi, I., Lim, K. W., ... & Mojsilovic, A. (2020). CogMol: Target-specific and selective drug design for COVID-19 using deep generative models. Advances in Neural Information Processing Systems, 33, 4320-4332. [[paper]](https://proceedings.neurips.cc/paper/2020/hash/2d16ad1968844a4300e9a490588ff9f8-Abstract.html).
@@ -203,15 +203,32 @@ Please consider cite our paper if you find this repo is helpful. The link will b
   
 # Drug Side Effects Prediction
 **2023**
-- Paladugu,
+- Lin, X., Dai, L., Zhou, Y., Yu, Z. G., Zhang, W., Shi, J. Y., ... & Zeng, X. (2023). Comprehensive evaluation of deep and graph learning on drug–drug interactions prediction. Briefings in Bioinformatics, 24(4), bbad235. [[paper]](https://academic.oup.com/bib/article-abstract/24/4/bbad235/7217116).
+- James, T., & Hennig, H. (2023). Knowledge Graphs and Their Applications in Drug Discovery. In High Performance Computing for Drug Discovery and Biomedicine (pp. 203-221). New York, NY: Springer US. [[paper]](https://link.springer.com/protocol/10.1007/978-1-0716-3449-3_9).
+- Wang, L., Song, Y., Wang, H., Zhang, X., Wang, M., He, J., ... & Cao, L. (2023). Advances of Artificial Intelligence in Anti-Cancer Drug Design: A Review of the Past Decade. Pharmaceuticals, 16(2), 253. [[paper]](https://www.mdpi.com/1424-8247/16/2/253).
+- Casale, A. D., Sarli, G., Bargagna, P., Polidori, L., Alcibiade, A., Zoppi, T., ... & Pompili, M. (2023). Machine Learning and Pharmacogenomics at the Time of Precision Psychiatry. Current Neuropharmacology, 21(12), 2395-2408. [[paper]](https://www.ingentaconnect.com/content/ben/cn/2023/00000021/00000012/art00004).
+- Holzinger, A., Keiblinger, K., Holub, P., Zatloukal, K., & Müller, H. (2023). AI for life: Trends in artificial intelligence for biotechnology. New Biotechnology, 74, 16-24. [[paper]](https://www.sciencedirect.com/science/article/pii/S1871678423000031).
+- Zhu, J., Liu, Y., Zhang, Y., Chen, Z., She, K., & Tong, R. (2023). DAEM: Deep attributed embedding based multi-task learning for predicting adverse drug–drug interaction. Expert Systems with Applications, 215, 119312. [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417422023302).
+- Li, T., Shetty, S., Kamath, A., Jaiswal, A., Jiang, X., Ding, Y., & Kim, Y. (2023). Cancergpt: Few-shot drug pair synergy prediction using large pre-trained language models. ArXiv. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153348/).
+  
 **2022**
-- Paladugu,
+- Bongini, P., Scarselli, F., Bianchini, M., Dimitri, G. M., Pancino, N., & Lio, P. (2022). Modular multi–source prediction of drug side–effects with DruGNN. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 20(2), 1211-1220. [[paper]](https://ieeexplore.ieee.org/abstract/document/9775571).
+- Nigo, M., Tran, H. T. N., Xie, Z., Feng, H., Mao, B., Rasmy, L., ... & Zhi, D. (2022). PK-RNN-V E: a deep learning model approach to vancomycin therapeutic drug monitoring using electronic health record data. Journal of Biomedical Informatics, 133, 104166. [[paper]](https://www.sciencedirect.com/science/article/pii/S1532046422001782).
+- Banerjee, A., & Pati, S. K. (2022). Predicting antiviral drugs for COVID-19 treatment using artificial intelligence based approach. Understanding COVID-19: The Role of Computational Intelligence, 245-269. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-74761-9_11).
 
  **2021**
-- Paladugu,
+- Vatansever, S., Schlessinger, A., Wacker, D., Kaniskan, H. Ü., Jin, J., Zhou, M. M., & Zhang, B. (2021). Artificial intelligence and machine learning‐aided drug discovery in central nervous system diseases: State‐of‐the‐arts and future directions. Medicinal research reviews, 41(3), 1427-1473. [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/med.21764).
+- Bhatt, A., Roberts, R., Chen, X., Li, T., Connor, S., Hatim, Q., ... & Liu, Z. (2021). Dice: a drug indication classification and encyclopedia for ai-based indication extraction. Frontiers in Artificial Intelligence, 4, 711467. [[paper]](https://www.frontiersin.org/articles/10.3389/frai.2021.711467/full).
+- Huang, K., Fu, T., Gao, W., Zhao, Y., Roohani, Y., Leskovec, J., ... & Zitnik, M. (2021). Therapeutics data commons: Machine learning datasets and tasks for drug discovery and development. arXiv preprint arXiv:2102.09548. [[paper]]().(https://arxiv.org/abs/2102.09548).
+- Houssein, E. H., Mohamed, R. E., & Ali, A. A. (2021). Machine learning techniques for biomedical natural language processing: a comprehensive review. IEEE Access, 9, 140628-140653. [[paper]](https://ieeexplore.ieee.org/abstract/document/9568778).
   
  **2020**
-- Paladugu,
+- Thakur, A., Mishra, A. P., Panda, B., Rodríguez, D., Gaurav, I., & Majhi, B. (2020). Application of artificial intelligence in pharmaceutical and biomedical studies. Current pharmaceutical design, 26(29), 3569-3578. [[paper]](https://www.ingentaconnect.com/content/ben/cpd/2020/00000026/00000029/art00007).
+- Wei, R., & Mahmood, A. (2020). Recent advances in variational autoencoders with representation learning for biomedical informatics: A survey. Ieee Access, 9, 4939-4956. [[paper]](https://ieeexplore.ieee.org/abstract/document/9311619).
+- Maziarka, Ł., Pocha, A., Kaczmarczyk, J., Rataj, K., Danel, T., & Warchoł, M. (2020). Mol-CycleGAN: a generative model for molecular optimization. Journal of Cheminformatics, 12(1), 1-18. [[paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0404-1?ref=https://githubhelp.com).
+- Sessions, Z., Sánchez-Cruz, N., Prieto-Martínez, F. D., Alves, V. M., Santos Jr, H. P., Muratov, E., ... & Medina-Franco, J. L. (2020). Recent progress on cheminformatics approaches to epigenetic drug discovery. Drug Discovery Today, 25(12), 2268-2276. [[paper]](https://www.sciencedirect.com/science/article/pii/S1359644620303780).
+- Li, Z., Yang, Z., Luo, L., Xiang, Y., & Lin, H. (2020). Exploiting adversarial transfer learning for adverse drug reaction detection from texts. Journal of biomedical informatics, 106, 103431. [[paper]](https://www.sciencedirect.com/science/article/pii/S1532046420300599).
+- Senbekov, M., Saliev, T., Bukeyeva, Z., Almabayeva, A., Zhanaliyeva, M., Aitenova, N., ... & Fakhradiyev, I. (2020). The recent progress and applications of digital technologies in healthcare: a review. International journal of telemedicine and applications, 2020. [[paper]](https://www.hindawi.com/journals/ijta/2020/8830200/).
   
 # Ethical and Regulatory Considerations
 ## Ethical GAI Consideration
