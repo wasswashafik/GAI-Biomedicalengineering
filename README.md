@@ -219,7 +219,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
  **2021**
 - Vatansever, S., Schlessinger, A., Wacker, D., Kaniskan, H. Ü., Jin, J., Zhou, M. M., & Zhang, B. (2021). Artificial intelligence and machine learning‐aided drug discovery in central nervous system diseases: State‐of‐the‐arts and future directions. Medicinal research reviews, 41(3), 1427-1473. [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/med.21764).
 - Bhatt, A., Roberts, R., Chen, X., Li, T., Connor, S., Hatim, Q., ... & Liu, Z. (2021). Dice: a drug indication classification and encyclopedia for ai-based indication extraction. Frontiers in Artificial Intelligence, 4, 711467. [[paper]](https://www.frontiersin.org/articles/10.3389/frai.2021.711467/full).
-- Huang, K., Fu, T., Gao, W., Zhao, Y., Roohani, Y., Leskovec, J., ... & Zitnik, M. (2021). Therapeutics data commons: Machine learning datasets and tasks for drug discovery and development. arXiv preprint arXiv:2102.09548. [[paper]]().(https://arxiv.org/abs/2102.09548).
+- Huang, K., Fu, T., Gao, W., Zhao, Y., Roohani, Y., Leskovec, J., ... & Zitnik, M. (2021). Therapeutics data commons: Machine learning datasets and tasks for drug discovery and development. arXiv preprint arXiv:2102.09548. [[paper]](https://arxiv.org/abs/2102.09548).
 - Houssein, E. H., Mohamed, R. E., & Ali, A. A. (2021). Machine learning techniques for biomedical natural language processing: a comprehensive review. IEEE Access, 9, 140628-140653. [[paper]](https://ieeexplore.ieee.org/abstract/document/9568778).
   
  **2020**
