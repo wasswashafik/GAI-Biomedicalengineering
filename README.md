@@ -1,5 +1,5 @@
 # GAI-Biomedicalengineering
-Generative artificial intelligence (GAI) has emerged as a significant catalyst in the pitch of biomedical engineering (BME), besides deep learning and computer vision, bringing about profound changes in the domains of research, diagnostics, and therapies.
+Generative artificial intelligence (GAI) has emerged as a significant catalyst in the pitch of biomedical engineering (BME), besides deep learning and computer vision, bringing about profound changes in the domains of research, diagnostics, and therapies in biomedical engineering.
 
 # Citation
 Please consider cite our paper if you find this repo is helpful. The link will be provieded after the publication
