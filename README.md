@@ -224,10 +224,14 @@ Please consider cite our paper if you find this repo is helpful. The link will b
 - Chen, J., Yi, C., Okegbile, S. D., & Cai, J. (2023). Networking Technologies for Enabling Human Digital Twin in Personalized Healthcare Applications: A Comprehensive Survey. arXiv preprint arXiv:2301.03930. [[paper]](https://arxiv.org/abs/2301.03930).
   
 **2022**
-- Paladugu,
+- Divya, S., Panda, S., Hajra, S., Jeyaraj, R., Paul, A., Park, S. H., ... & Oh, T. H. (2022). Smart data processing for energy harvesting systems using artificial intelligence. Nano Energy, 108084. [[paper]](https://www.sciencedirect.com/science/article/pii/S2211285522011624).
+- Zhou, Y., & Varzaneh, M. G. (2022). Efficient and scalable patients clustering based on medical big data in cloud platform. Journal of Cloud Computing, 11(1), 1-10. [[paper]](https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-022-00324-3).
+- Fowler, M. M. (2022). Bodies of Degeneration: Auguste Rodin and the French Fin de Siècle (Doctoral dissertation, Tulane University, School of Liberal Arts). [[paper]](https://www.proquest.com/openview/1bd46a912511b3ed4377e5ae84d4af2d/1?cbl=18750&diss=y&pq-origsite=gscholar&parentSessionId=AF%2FIk0HmQjiptKEeLT8%2B0LXf0KKg3QNGcqpdEdVM1N0%3D).
+- Oyekunle, A. A. (2022). Improved classifier chain methods based on heuristic optimization techniques for multi-label classification problem (Doctoral dissertation, Universiti Tun Hussein Onn Malaysia). [[paper]](http://eprints.uthm.edu.my/8378/1/24p%20ADELEKE%20ABDULLAHI%20OYEKUNLE.pdf).
 
  **2021**
-- Paladugu,
+- Khan, H., Kushwah, K. K., Singh, S., Urkude, H., Maurya, M. R., & Sadasivuni, K. K. (2021). Smart technologies driven approaches to tackle COVID-19 pandemic: a review. 3 Biotech, 11, 1-22. [[paper]](https://link.springer.com/article/10.1007/s13205-020-02581-y).
+- Kazi, A. B. (2021). Graph Deep Learning for Healthcare Applications (Doctoral dissertation, Technische Universität München). [[paper]](https://mediatum.ub.tum.de/1639387).
   
  **2020**
 - Paladugu,
