@@ -222,7 +222,15 @@ Please consider cite our paper if you find this repo is helpful. The link will b
   
 ## Regulatory Consideration
  **2023**
-- Paladugu,
+- Petrick, N., Chen, W., Delfino, J. G., Gallas, B. D., Kang, Y., Krainak, D., ... & Samala, R. K. (2023). Regulatory considerations for medical imaging AI/ML devices in the United States: concepts and challenges. Journal of Medical Imaging, 10(5), 051804-051804. [[paper]](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-10/issue-5/051804/Regulatory-considerations-for-medical-imaging-AI-ML-devices-in-the/10.1117/1.JMI.10.5.051804.full?SSO=1).
+- Meskó, B. (2023). The Impact of Multimodal Large Language Models on Health Care’s Future. Journal of Medical Internet Research, 25, e52865. [[paper]](https://www.jmir.org/2023/1/e52865/).
+- Pun, F. W., Ozerov, I. V., & Zhavoronkov, A. (2023). AI-powered therapeutic target discovery. Trends in Pharmacological Sciences. [[paper]](https://www.cell.com/trends/pharmacological-sciences/fulltext/S0165-6147(23)00137-2).
+- Thirunavukarasu, A. J., Ting, D. S. J., Elangovan, K., Gutierrez, L., Tan, T. F., & Ting, D. S. W. (2023). Large language models in medicine. Nature medicine, 29(8), 1930-1940. [[paper]](https://www.nature.com/articles/s41591-023-02448-8).
+- Qiu, J., Li, L., Sun, J., Peng, J., Shi, P., Zhang, R., ... & Lo, B. (2023). Large ai models in health informatics: Applications, challenges, and the future. IEEE Journal of Biomedical and Health Informatics. [[paper]](https://ieeexplore.ieee.org/abstract/document/10261199).
+- Rokhshad, R., Ducret, M., Chaurasia, A., Karteva, T., Radenkovic, M., Roganovic, J., ... & Schwendicke, F. (2023). Ethical Considerations on Artificial Intelligence in Dentistry: A Framework and Checklist. Journal of Dentistry, 104593. [[paper]](https://www.sciencedirect.com/science/article/pii/S0300571223001793).
+- Subramanian, B. (2023). Mahesh Maurya, Vishal Gangadhar Puranik, A. Senthil Kumar. Toward Artificial General Intelligence: Deep Learning, Neural Networks, Generative AI. [[paper]](https://books.google.com.bn/books?hl=en&lr=&id=tm_eEAAAQBAJ&oi=fnd&pg=PA1&dq=Regulatory+Consideration+Generative+AI+biomedical&ots=L668WVnBwT&sig=-kWdGPE5_ciHIJvFf0RbEDr5zfc&redir_esc=y#v=onepage&q&f=false).
+- Chatterjee, S., Bhattacharya, M., Lee, S. S., & Chakraborty, C. (2023). Can artificial intelligence-strengthened ChatGPT or other large language models transform nucleic acid research?. Molecular Therapy-Nucleic Acids, 33, 205-207. [[paper]](https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(23)00169-5).
+  
 **2022**
 - Paladugu,
 
