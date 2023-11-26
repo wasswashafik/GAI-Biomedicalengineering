@@ -411,7 +411,7 @@ Please consider cite our paper if you find this repo is helpful. The link will b
   
 **2020**
 - Jiang, Y., Chen, H., Loew, M., & Ko, H. (2020). COVID-19 CT image synthesis with a conditional generative adversarial network. IEEE Journal of Biomedical and Health Informatics, 25(2), 441-452. [[paper]](https://ieeexplore.ieee.org/abstract/document/9281375).
-- Li, M., Liu, Z., Shi, X., & Jin, H. (2020). ATCS: Auto-tuning configurations of big data frameworks based on generative adversarial nets. IEEE Access, 8, 50485-50496. [paper]](https://ieeexplore.ieee.org/abstract/document/9031432).
+- Li, M., Liu, Z., Shi, X., & Jin, H. (2020). ATCS: Auto-tuning configurations of big data frameworks based on generative adversarial nets. IEEE Access, 8, 50485-50496. [[paper]](https://ieeexplore.ieee.org/abstract/document/9031432).
 - Latif, S., Usman, M., Manzoor, S., Iqbal, W., Qadir, J., Tyson, G., ... & Crowcroft, J. (2020). Leveraging data science to combat COVID-19: A comprehensive review. IEEE Transactions on Artificial Intelligence, 1(1), 85-103. [[paper]](https://ieeexplore.ieee.org/abstract/document/9184922).
 - Caldwell, M., Andrews, J. T., Tanay, T., & Griffin, L. D. (2020). AI-enabled future crime. Crime Science, 9(1), 1-13. [[paper]](https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-020-00123-8?ref=blog.salesforceairesearch.com).
 - Klimova, A., Bilas, A., Harmandaris, V., Voevodin, V., & Boukhanovsky, A. (2020). Artificial Intelligence as the Driver of Computational Science: preface to YSC’2020. Procedia Computer Science, 178, 1-7. [[paper]](https://www.sciencedirect.com/science/article/pii/S1877050920323735).
